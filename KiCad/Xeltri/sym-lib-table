@@ -19,4 +19,5 @@
   (lib (name "RT9013-12GB")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/RT9013-12GB/RT9013-12GB.kicad_sym")(options "")(descr ""))
   (lib (name "TPS22966DPUR")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/TPS22966DPUR/TPS22966DPUR.kicad_sym")(options "")(descr ""))
   (lib (name "Battery Holder BS-2-1")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/Battery Holder BS-2-1/Battery Holder BS-2-1.kicad_sym")(options "")(descr ""))
+  (lib (name "LM73100RPWR")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/LM73100RPWR/LM73100RPWR.kicad_sym")(options "")(descr ""))
 )

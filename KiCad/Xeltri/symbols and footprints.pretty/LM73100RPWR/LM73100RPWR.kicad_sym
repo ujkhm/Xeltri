@@ -1,0 +1,79 @@
+(kicad_symbol_lib
+  (version 20211014)
+  (generator https://github.com/tangsangsimida/EasyKiConverter)
+  (symbol "LM73100RPWR"
+    (in_bom yes)
+    (on_board yes)
+    (property
+      "Reference"
+      "U"
+      (id 0)
+      (at 12.70 7.62 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) )
+    )
+    (property
+      "Value"
+      "LM73100RPWR"
+      (id 1)
+      (at 12.70 -15.24 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) )
+    )
+    (property
+      "Footprint"
+      "LM73100RPWR:VQFN-10_L2.0-W2.0-P0.45-TL"
+      (id 2)
+      (at 12.70 -17.78 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "Datasheet"
+      "https://lcsc.com/product-detail/C3210761.html"
+      (id 3)
+      (at 12.70 -20.32 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "Manufacturer"
+      "TI(德州仪器)"
+      (id 4)
+      (at 12.70 -22.86 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "LCSC Part"
+      "C3210761"
+      (id 5)
+      (at 12.70 -25.40 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "ki_description"
+      "LM73100RPWR"
+      (id 6)
+      (at 12.70 -27.94 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (rectangle
+      (start 2.54 2.54)
+      (end 22.86 -12.70)
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (circle
+      (center 3.81 1.27)
+      (radius 0.38)
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (pin unspecified line (at 0.00 0.00 0) (length 2.54) (name "EN/UVLO" (effects (font (size 1.27 1.27) (thickness 0) ))) (number "1" (effects (font (size 1.27 1.27) (thickness 0) ))))
+    (pin unspecified line (at 0.00 -2.54 0) (length 2.54) (name "OVLO" (effects (font (size 1.27 1.27) (thickness 0) ))) (number "2" (effects (font (size 1.27 1.27) (thickness 0) ))))
+    (pin unspecified line (at 0.00 -5.08 0) (length 2.54) (name "PG" (effects (font (size 1.27 1.27) (thickness 0) ))) (number "3" (effects (font (size 1.27 1.27) (thickness 0) ))))
+    (pin unspecified line (at 0.00 -7.62 0) (length 2.54) (name "PGTH" (effects (font (size 1.27 1.27) (thickness 0) ))) (number "4" (effects (font (size 1.27 1.27) (thickness 0) ))))
+    (pin unspecified line (at 0.00 -10.16 0) (length 2.54) (name "IN" (effects (font (size 1.27 1.27) (thickness 0) ))) (number "5" (effects (font (size 1.27 1.27) (thickness 0) ))))
+    (pin unspecified line (at 25.40 -10.16 180) (length 2.54) (name "OUT" (effects (font (size 1.27 1.27) (thickness 0) ))) (number "6" (effects (font (size 1.27 1.27) (thickness 0) ))))
+    (pin unspecified line (at 25.40 -7.62 180) (length 2.54) (name "DVDT" (effects (font (size 1.27 1.27) (thickness 0) ))) (number "7" (effects (font (size 1.27 1.27) (thickness 0) ))))
+    (pin unspecified line (at 25.40 -5.08 180) (length 2.54) (name "GND" (effects (font (size 1.27 1.27) (thickness 0) ))) (number "8" (effects (font (size 1.27 1.27) (thickness 0) ))))
+    (pin unspecified line (at 25.40 -2.54 180) (length 2.54) (name "IMON" (effects (font (size 1.27 1.27) (thickness 0) ))) (number "9" (effects (font (size 1.27 1.27) (thickness 0) ))))
+    (pin unspecified line (at 25.40 0.00 180) (length 2.54) (name "DNC" (effects (font (size 1.27 1.27) (thickness 0) ))) (number "10" (effects (font (size 1.27 1.27) (thickness 0) ))))
+  )
+)
