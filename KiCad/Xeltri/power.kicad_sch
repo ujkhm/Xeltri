@@ -4681,6 +4681,12 @@
 		(uuid "944bb7cf-b2e8-402d-8d51-3c063cfab606")
 	)
 	(junction
+		(at 226.06 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9487f2e0-1c8b-403f-b53f-fa9f3dc1d1b3")
+	)
+	(junction
 		(at 186.69 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4691,6 +4697,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9c1576d2-43ec-4090-b4b9-43ed4fc3f119")
+	)
+	(junction
+		(at 289.56 180.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a5d33e73-4133-4a78-9bf6-d0726ff87948")
 	)
 	(junction
 		(at 62.23 156.21)
@@ -5898,7 +5910,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 54.61) (xy 106.68 54.61)
+			(xy 92.71 54.61) (xy 125.73 54.61)
 		)
 		(stroke
 			(width 0)
@@ -6878,16 +6890,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 54.61) (xy 125.73 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc8f1761-5c15-4edc-b3ae-0ddfd72000da")
-	)
-	(wire
-		(pts
 			(xy 62.23 363.22) (xy 93.98 363.22)
 		)
 		(stroke
@@ -6996,16 +6998,6 @@
 		)
 		(uuid "82836e1f-8c3d-4dbc-9725-1e472c2f26be")
 	)
-	(label "SY8843_3.3V_OUT"
-		(at 209.55 156.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b7fa339a-7581-417d-94f3-4c462950824f")
-	)
 	(label "Power_Input"
 		(at 30.48 67.31 180)
 		(effects
@@ -7045,16 +7037,6 @@
 			(justify left bottom)
 		)
 		(uuid "d22ed728-e8bd-4e63-be74-e7699da885cf")
-	)
-	(label "SY8843_3.3V_OUT"
-		(at 306.07 180.34 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e2a7fd36-34bb-4abd-88e0-874333897bbc")
 	)
 	(global_label "0.9V_OK"
 		(shape input)
@@ -7385,72 +7367,6 @@
 			(project "Xeltri"
 				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
 					(reference "C33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 375.92 180.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "071fc011-fd88-4013-90c5-eeb3e834965b")
-		(property "Reference" "#PWR047"
-			(at 375.92 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 375.92 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 375.92 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 375.92 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 375.92 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "56a483b0-b02c-4a51-a222-4eccc4e69188")
-		)
-		(instances
-			(project "Xeltri"
-				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
-					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -15884,74 +15800,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 110.49 54.61 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9e84ac53-c172-415f-b12a-c0a583a22aa3")
-		(property "Reference" "R59"
-			(at 110.49 48.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 110.49 50.8 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 110.49 56.388 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 110.49 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 110.49 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "579c365f-de60-46f8-ac86-925cc5bce5d0")
-		)
-		(pin "2"
-			(uuid "69286f67-c99b-4c12-8c6d-2b746b9cab32")
-		)
-		(instances
-			(project "Xeltri"
-				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
-					(reference "R59")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 62.23 190.5 0)
 		(unit 1)
@@ -18087,6 +17935,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 226.06 156.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c5b51ccb-706d-44c7-ba98-9cc91850ab4e")
+		(property "Reference" "#PWR047"
+			(at 226.06 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 226.06 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 226.06 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 226.06 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 226.06 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f0074eb1-9e2c-4fe5-a761-975943f1aed1")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 142.24 78.74 0)
 		(unit 1)
@@ -19230,6 +19144,72 @@
 			(project "Xeltri"
 				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
 					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 289.56 180.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d804a72d-d442-484e-814c-aab44795bdc3")
+		(property "Reference" "#PWR0116"
+			(at 289.56 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 289.56 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 289.56 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 289.56 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 289.56 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "561b13b5-b4e9-4443-a39d-75c13fe2383a")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
