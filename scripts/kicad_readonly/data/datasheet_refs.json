@@ -1,0 +1,132 @@
+{
+  "_meta": {
+    "purpose": "Manually curated layout-guideline facts per IC family, cited to datasheet section/page. Used by design_judgments.py to cross-check toolchain geometry against vendor guidance for ANY component with a matching profile — not limited to one part number.",
+    "how_to_extend": "Add a new object under 'profiles'. 'match' is a regex tested against footprint Value AND footprint name (case-insensitive, first match wins by list order). Each 'facts' entry should cite doc + section/page so replies can show provenance. Mark 'verified' false until a human confirms against the current datasheet revision.",
+    "schema_version": 1
+  },
+  "profiles": [
+    {
+      "id": "ti_tps566xx_buck",
+      "match": "TPS566(37|3[0-9]|2[0-9])",
+      "display_name": "TI TPS566xx series sync buck",
+      "doc": "TI SLVSF61 (TPS56637) datasheet + TI PowerPAD layout app notes",
+      "verified": false,
+      "facts": [
+        {
+          "id": "sw_node_area",
+          "topic": "SW copper area",
+          "guideline": "Keep the SW-node copper as small/short as practical; use a wide-but-short shape only large enough to carry rated current, not a large flood.",
+          "section": "\u00a78.2.2 Layout Guidelines / PowerPAD app notes",
+          "checks_against": ["sw_length_used_mm"],
+          "recommend_max_mm": 6.0
+        },
+        {
+          "id": "fb_routing",
+          "topic": "FB trace routing",
+          "guideline": "Route FB away from SW node and inductor; keep short and reference a quiet ground (GNDA) rather than the power SW loop.",
+          "section": "\u00a78.2.2 Layout Guidelines, Fig. 'Recommended Layout'",
+          "checks_against": ["sw_fb_min_distance_mm"],
+          "status_field": "sw_fb_status",
+          "package_limited_field": "sw_fb_package_limited",
+          "recommend_min_mm": 2.0
+        },
+        {
+          "id": "boot_cap_placement",
+          "topic": "Bootstrap (BOOT) capacitor placement",
+          "guideline": "Place the BOOT capacitor (typ. 2.2\u201310 nF) as close as possible to the BOOT and SW pins to minimize bootstrap loop inductance.",
+          "section": "\u00a78.2.2 Layout Guidelines / \u00a79.1 BOOT cap sizing",
+          "checks_against": ["boot_cap_distance_mm"],
+          "status_field": "boot_cap_status",
+          "recommend_max_mm": 3.0
+        },
+        {
+          "id": "input_cap_placement",
+          "topic": "VIN decoupling capacitor placement",
+          "guideline": "Place high-frequency input capacitor directly at VIN/PGND pins; minimize the VIN-cap-GND loop area.",
+          "section": "\u00a78.2.2 Layout Guidelines",
+          "checks_against": ["nearest_vin_cap.distance_mm"],
+          "recommend_max_mm": 4.0
+        },
+        {
+          "id": "thermal_pad_vias",
+          "topic": "Thermal pad / GND stitching vias",
+          "guideline": "Use multiple thermal vias under the exposed pad to sink heat to inner/bottom GND planes.",
+          "section": "\u00a79.2 Thermal considerations / PowerPAD app note",
+          "checks_against": ["gnd_via_count_near_ic"],
+          "recommend_min_count": 4
+        },
+        {
+          "id": "cin_effective",
+          "topic": "VIN ceramic C after DC bias",
+          "guideline": "Keep enough ceramic CIN at the operating VIN after Class-II DC-bias loss (typical recommendation 10 uF ceramic).",
+          "section": "\u00a78.2.2 Input capacitor / recommended components",
+          "checks_against": ["vin_ceff_uf"],
+          "status_field": "mlcc_vin_status",
+          "recommend_min_uf": 10.0
+        },
+        {
+          "id": "cout_effective",
+          "topic": "VOUT ceramic C after DC bias",
+          "guideline": "Output ceramic capacitance after DC bias should stay above the recommended minimum (typically 22 uF class).",
+          "section": "\u00a78.2.2 Output capacitor",
+          "checks_against": ["vout_ceff_uf"],
+          "status_field": "mlcc_vout_status",
+          "recommend_min_uf": 22.0
+        }
+      ]
+    },
+    {
+      "id": "silergy_sy8843_buck",
+      "match": "SY8843",
+      "display_name": "Silergy SY8843 sync buck",
+      "doc": "Silergy SY8843 datasheet, Layout Consideration section",
+      "verified": false,
+      "facts": [
+        {
+          "id": "sw_node_area",
+          "topic": "LX/SW copper area",
+          "guideline": "Keep LX node trace/pour short and direct between IC and inductor; avoid routing other signals near/under it.",
+          "section": "Layout Consideration",
+          "checks_against": ["sw_length_used_mm"],
+          "recommend_max_mm": 5.0
+        },
+        {
+          "id": "input_cap_placement",
+          "topic": "Input capacitor placement",
+          "guideline": "Place input bypass capacitor as close as possible to VIN and GND pins.",
+          "section": "Layout Consideration",
+          "checks_against": ["nearest_vin_cap.distance_mm"],
+          "recommend_max_mm": 4.0
+        },
+        {
+          "id": "fb_routing",
+          "topic": "FB trace routing",
+          "guideline": "Keep the feedback trace away from the LX switching node and inductor; route on a quiet layer if possible.",
+          "section": "Layout Consideration",
+          "checks_against": ["sw_fb_min_distance_mm"],
+          "status_field": "sw_fb_status",
+          "package_limited_field": "sw_fb_package_limited",
+          "recommend_min_mm": 2.0
+        },
+        {
+          "id": "cin_effective",
+          "topic": "VIN ceramic C after DC bias",
+          "guideline": "Place ceramic CIN at VIN; count capacitance after DC-bias derating, not the marked uF. Typical minimum 10 uF effective.",
+          "section": "Layout Consideration / recommended CIN",
+          "checks_against": ["vin_ceff_uf"],
+          "status_field": "mlcc_vin_status",
+          "recommend_min_uf": 10.0
+        },
+        {
+          "id": "cout_effective",
+          "topic": "VOUT ceramic C after DC bias",
+          "guideline": "Output ceramic after DC-bias derating should meet the recommended COUT (typically 22 uF class).",
+          "section": "Layout Consideration / recommended COUT",
+          "checks_against": ["vout_ceff_uf"],
+          "status_field": "mlcc_vout_status",
+          "recommend_min_uf": 22.0
+        }
+      ]
+    }
+  ]
+}

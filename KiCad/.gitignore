@@ -1,5 +1,9 @@
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
+# Based on GitHub's KiCad.gitignore (includes KiCad 9 .history).
+#
+# Keep (not junk): .kicad_pro/.kicad_sch/.kicad_pcb, .kicad_dru (custom DRC),
+# fp-lib-table, sym-lib-table, design-block-lib-table, project *.py, .pretty libs.
 
 # Temporary files
 *.000
@@ -19,8 +23,9 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+*.lck
 ~*.lck
-\#auto_saved_files#
+kicad_temp_delay_table.txt
 
 # Netlist files (exported from Eeschema)
 *.net

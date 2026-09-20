@@ -7311,7 +7311,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 78.74 195.5799 0)
 			(effects
 				(font
@@ -7329,7 +7329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 74.93 194.31 0)
 			(effects
 				(font
@@ -7340,15 +7340,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 74.93 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7490,7 +7481,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF/50V"
+		(property "Value" "10uF"
 			(at 48.26 120.6499 0)
 			(effects
 				(font
@@ -7499,7 +7490,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 45.4152 123.19 0)
 			(effects
 				(font
@@ -7508,7 +7499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL31A106KBHNNNE/C13585"
+		(property "Datasheet" "~"
 			(at 44.45 119.38 0)
 			(effects
 				(font
@@ -7519,15 +7510,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 44.45 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C13585"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7569,7 +7551,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 76.2 284.4799 0)
 			(effects
 				(font
@@ -7587,7 +7569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 72.39 283.21 0)
 			(effects
 				(font
@@ -7598,15 +7580,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 72.39 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8166,7 +8139,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF/50V"
+		(property "Value" "10uF"
 			(at 48.26 73.6599 0)
 			(effects
 				(font
@@ -8175,7 +8148,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 45.4152 76.2 0)
 			(effects
 				(font
@@ -8184,7 +8157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL31A106KBHNNNE/C13585"
+		(property "Datasheet" "~"
 			(at 44.45 72.39 0)
 			(effects
 				(font
@@ -8195,15 +8168,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 44.45 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C13585"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8516,7 +8480,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100pF/50V"
+		(property "Value" "100pF"
 			(at 146.05 126.9999 0)
 			(effects
 				(font
@@ -8534,7 +8498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/FH-0402CG101J500NT/C1546"
+		(property "Datasheet" "~"
 			(at 142.24 125.73 0)
 			(effects
 				(font
@@ -8545,15 +8509,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 142.24 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1546"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10650,7 +10605,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 161.29 241.2999 0)
 			(effects
 				(font
@@ -10668,7 +10623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 157.48 240.03 0)
 			(effects
 				(font
@@ -10679,15 +10634,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 157.48 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10935,7 +10881,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF/50V"
+		(property "Value" "100nF"
 			(at 96.52 59.6899 0)
 			(effects
 				(font
@@ -10953,7 +10899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KB54PNC/C307331"
+		(property "Datasheet" "~"
 			(at 92.71 58.42 0)
 			(effects
 				(font
@@ -10964,15 +10910,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 92.71 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C307331"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11222,7 +11159,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/50V"
+		(property "Value" "100nF"
 			(at 73.66 120.6499 0)
 			(effects
 				(font
@@ -11240,7 +11177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/YAGEO-CC0805KRX7R9BB104/C49678"
+		(property "Datasheet" "~"
 			(at 69.85 119.38 0)
 			(effects
 				(font
@@ -11251,15 +11188,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 69.85 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C49678"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11301,7 +11229,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 77.47 241.2999 0)
 			(effects
 				(font
@@ -11319,7 +11247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 73.66 240.03 0)
 			(effects
 				(font
@@ -11330,15 +11258,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 73.66 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11512,7 +11431,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF/25V"
+		(property "Value" "1uF"
 			(at 132.08 330.1999 0)
 			(effects
 				(font
@@ -11530,7 +11449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05A105KA5NQNC/C52923"
+		(property "Datasheet" "~"
 			(at 128.27 328.93 0)
 			(effects
 				(font
@@ -11541,15 +11460,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 128.27 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C52923"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11860,7 +11770,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 173.99 284.4799 0)
 			(effects
 				(font
@@ -11878,7 +11788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 170.18 283.21 0)
 			(effects
 				(font
@@ -11889,15 +11799,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 170.18 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12279,7 +12180,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/50V"
+		(property "Value" "100nF"
 			(at 73.66 73.6599 0)
 			(effects
 				(font
@@ -12297,7 +12198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/YAGEO-CC0805KRX7R9BB104/C49678"
+		(property "Datasheet" "~"
 			(at 69.85 72.39 0)
 			(effects
 				(font
@@ -12308,15 +12209,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 69.85 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C49678"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12424,7 +12316,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 175.26 241.2999 0)
 			(effects
 				(font
@@ -12442,7 +12334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 171.45 240.03 0)
 			(effects
 				(font
@@ -12453,15 +12345,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 171.45 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13823,7 +13706,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 63.5 284.4799 0)
 			(effects
 				(font
@@ -13841,7 +13724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 59.69 283.21 0)
 			(effects
 				(font
@@ -13852,15 +13735,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 59.69 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14120,7 +13994,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 180.34 72.3899 0)
 			(effects
 				(font
@@ -14138,7 +14012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 176.53 71.12 0)
 			(effects
 				(font
@@ -14149,15 +14023,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 176.53 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14199,7 +14064,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 162.56 195.5799 0)
 			(effects
 				(font
@@ -14217,7 +14082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 158.75 194.31 0)
 			(effects
 				(font
@@ -14228,15 +14093,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 158.75 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14606,7 +14462,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF/25V"
+		(property "Value" "1uF"
 			(at 132.08 368.2999 0)
 			(effects
 				(font
@@ -14624,7 +14480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05A105KA5NQNC/C52923"
+		(property "Datasheet" "~"
 			(at 128.27 367.03 0)
 			(effects
 				(font
@@ -14635,15 +14491,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 128.27 367.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C52923"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14821,7 +14668,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF/50V"
+		(property "Value" "10uF"
 			(at 60.96 73.6599 0)
 			(effects
 				(font
@@ -14830,7 +14677,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 58.1152 76.2 0)
 			(effects
 				(font
@@ -14839,7 +14686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL31A106KBHNNNE/C13585"
+		(property "Datasheet" "~"
 			(at 57.15 72.39 0)
 			(effects
 				(font
@@ -14850,15 +14697,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 57.15 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C13585"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15161,7 +14999,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 66.04 195.5799 0)
 			(effects
 				(font
@@ -15179,7 +15017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 62.23 194.31 0)
 			(effects
 				(font
@@ -15190,15 +15028,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 62.23 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15310,7 +15139,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 190.5 119.3799 0)
 			(effects
 				(font
@@ -15328,7 +15157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 186.69 118.11 0)
 			(effects
 				(font
@@ -15339,15 +15168,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 186.69 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15389,7 +15209,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF/25V"
+		(property "Value" "1uF"
 			(at 66.04 368.2999 0)
 			(effects
 				(font
@@ -15407,7 +15227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05A105KA5NQNC/C52923"
+		(property "Datasheet" "~"
 			(at 62.23 367.03 0)
 			(effects
 				(font
@@ -15418,15 +15238,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 62.23 367.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C52923"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15670,7 +15481,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 78.74 161.2899 0)
 			(effects
 				(font
@@ -15688,7 +15499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 74.93 160.02 0)
 			(effects
 				(font
@@ -15699,15 +15510,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 74.93 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16474,7 +16276,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 201.93 119.3799 0)
 			(effects
 				(font
@@ -16492,7 +16294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 198.12 118.11 0)
 			(effects
 				(font
@@ -16503,15 +16305,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 198.12 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16760,7 +16553,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 214.63 119.3799 0)
 			(effects
 				(font
@@ -16778,7 +16571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 210.82 118.11 0)
 			(effects
 				(font
@@ -16789,15 +16582,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 210.82 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17023,7 +16807,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 205.74 72.3899 0)
 			(effects
 				(font
@@ -17041,7 +16825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 201.93 71.12 0)
 			(effects
 				(font
@@ -17052,15 +16836,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 201.93 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17391,7 +17166,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF/50V"
+		(property "Value" "10uF"
 			(at 60.96 120.6499 0)
 			(effects
 				(font
@@ -17400,7 +17175,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 58.1152 123.19 0)
 			(effects
 				(font
@@ -17409,7 +17184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL31A106KBHNNNE/C13585"
+		(property "Datasheet" "~"
 			(at 57.15 119.38 0)
 			(effects
 				(font
@@ -17420,15 +17195,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 57.15 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C13585"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17707,7 +17473,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF/25V"
+		(property "Value" "1uF"
 			(at 66.04 330.1999 0)
 			(effects
 				(font
@@ -17725,7 +17491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05A105KA5NQNC/C52923"
+		(property "Datasheet" "~"
 			(at 62.23 328.93 0)
 			(effects
 				(font
@@ -17736,15 +17502,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 62.23 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C52923"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18184,7 +17941,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100pF/50V"
+		(property "Value" "100pF"
 			(at 146.05 80.0099 0)
 			(effects
 				(font
@@ -18202,7 +17959,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/FH-0402CG101J500NT/C1546"
+		(property "Datasheet" "~"
 			(at 142.24 78.74 0)
 			(effects
 				(font
@@ -18213,15 +17970,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 142.24 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1546"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18263,7 +18011,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 162.56 161.2899 0)
 			(effects
 				(font
@@ -18281,7 +18029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 158.75 160.02 0)
 			(effects
 				(font
@@ -18292,15 +18040,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 158.75 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18408,7 +18147,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF/50V"
+		(property "Value" "100nF"
 			(at 96.52 106.6799 0)
 			(effects
 				(font
@@ -18426,7 +18165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KB54PNC/C307331"
+		(property "Datasheet" "~"
 			(at 92.71 105.41 0)
 			(effects
 				(font
@@ -18437,15 +18176,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 92.71 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C307331"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18487,7 +18217,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 218.44 72.3899 0)
 			(effects
 				(font
@@ -18505,7 +18235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 214.63 71.12 0)
 			(effects
 				(font
@@ -18516,15 +18246,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 214.63 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18845,7 +18566,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 176.53 195.5799 0)
 			(effects
 				(font
@@ -18863,7 +18584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 172.72 194.31 0)
 			(effects
 				(font
@@ -18874,15 +18595,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 172.72 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18994,7 +18706,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 160.02 284.4799 0)
 			(effects
 				(font
@@ -19012,7 +18724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 156.21 283.21 0)
 			(effects
 				(font
@@ -19023,15 +18735,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 156.21 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19073,7 +18776,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 64.77 241.2999 0)
 			(effects
 				(font
@@ -19091,7 +18794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 60.96 240.03 0)
 			(effects
 				(font
@@ -19102,15 +18805,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 60.96 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19532,7 +19226,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 194.31 72.3899 0)
 			(effects
 				(font
@@ -19550,7 +19244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 190.5 71.12 0)
 			(effects
 				(font
@@ -19561,15 +19255,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 190.5 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20222,7 +19907,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 66.04 161.2899 0)
 			(effects
 				(font
@@ -20240,7 +19925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 62.23 160.02 0)
 			(effects
 				(font
@@ -20251,15 +19936,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 62.23 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20498,7 +20174,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF/25V"
+		(property "Value" "22uF"
 			(at 176.53 161.2899 0)
 			(effects
 				(font
@@ -20516,7 +20192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A226MAQNNNE/C45783"
+		(property "Datasheet" "~"
 			(at 172.72 160.02 0)
 			(effects
 				(font
@@ -20527,15 +20203,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 172.72 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C45783"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)

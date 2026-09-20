@@ -3,9 +3,18 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
+# PortableDev / secrets — never commit (USB session files)
+git-credentials
+.git-credentials
+**/git-credentials
+Users*PortableDev*
+*PortableDev*git-credentials*
+*AppData*Local*Temp*PortableDev*
+
 # Editor
 .vscode/ipch/
 .vscode/.cmaketools/
+.cursor/
 
 # KiCad local / generated (also listed under KiCad/.gitignore)
 fp-info-cache
@@ -17,3 +26,13 @@ _autosave-*
 *.bak
 *.kicad_sch-bak
 *.csv
+kicad_temp_delay_table.txt
+
+# AI analysis outputs (regenerate via scripts/)
+analysis/*.json
+analysis/.cache/
+analysis/.active_pcb_path
+
+# Local heavy toolchain (openEMS binaries, ~250MB) — reinstall via
+# scripts/si_sim/install_openems_windows.ps1, do not commit
+tools/

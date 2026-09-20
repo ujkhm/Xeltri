@@ -8774,7 +8774,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 96.52 393.6999 0)
 			(effects
 				(font
@@ -8792,7 +8792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 92.71 392.43 0)
 			(effects
 				(font
@@ -8803,15 +8803,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 92.71 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8853,7 +8844,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF/25V"
+		(property "Value" "4.7uF"
 			(at 152.4 355.5999 0)
 			(effects
 				(font
@@ -8871,7 +8862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A475KAQNNNE/C1779"
+		(property "Datasheet" "~"
 			(at 148.59 354.33 0)
 			(effects
 				(font
@@ -8882,15 +8873,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 148.59 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1779"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8998,7 +8980,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2uF/6.3V"
+		(property "Value" "2.2uF"
 			(at 254 312.4199 0)
 			(effects
 				(font
@@ -9016,7 +8998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05A225MQ5NSNC/C12530"
+		(property "Datasheet" "~"
 			(at 250.19 311.15 0)
 			(effects
 				(font
@@ -9027,15 +9009,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 250.19 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C12530"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9344,7 +9317,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 119.38 355.5999 0)
 			(effects
 				(font
@@ -9362,7 +9335,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 115.57 354.33 0)
 			(effects
 				(font
@@ -9373,15 +9346,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 115.57 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9423,7 +9387,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 138.43 393.6999 0)
 			(effects
 				(font
@@ -9441,7 +9405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 134.62 392.43 0)
 			(effects
 				(font
@@ -9452,15 +9416,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 134.62 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9570,7 +9525,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 110.49 393.6999 0)
 			(effects
 				(font
@@ -9588,7 +9543,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 106.68 392.43 0)
 			(effects
 				(font
@@ -9599,15 +9554,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 106.68 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9649,7 +9595,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 194.31 393.6999 0)
 			(effects
 				(font
@@ -9667,7 +9613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 190.5 392.43 0)
 			(effects
 				(font
@@ -9678,15 +9624,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 190.5 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9728,7 +9665,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 285.75 60.9599 0)
 			(effects
 				(font
@@ -9746,7 +9683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 281.94 59.69 0)
 			(effects
 				(font
@@ -9757,15 +9694,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 281.94 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10072,7 +10000,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 292.1 393.6999 0)
 			(effects
 				(font
@@ -10090,7 +10018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 288.29 392.43 0)
 			(effects
 				(font
@@ -10101,15 +10029,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 288.29 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10151,7 +10070,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 82.55 393.6999 0)
 			(effects
 				(font
@@ -10169,7 +10088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 78.74 392.43 0)
 			(effects
 				(font
@@ -10180,15 +10099,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 78.74 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10295,7 +10205,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 266.7 73.66 90)
 			(effects
 				(font
@@ -10312,7 +10222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 266.7 78.74 0)
 			(effects
 				(font
@@ -10323,15 +10233,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 266.7 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10373,7 +10274,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 208.28 393.6999 0)
 			(effects
 				(font
@@ -10391,7 +10292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 204.47 392.43 0)
 			(effects
 				(font
@@ -10402,15 +10303,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 204.47 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10452,7 +10344,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 234.95 96.5199 0)
 			(effects
 				(font
@@ -10470,7 +10362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 231.14 95.25 0)
 			(effects
 				(font
@@ -10481,15 +10373,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 231.14 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10598,7 +10481,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 264.16 393.6999 0)
 			(effects
 				(font
@@ -10616,7 +10499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 260.35 392.43 0)
 			(effects
 				(font
@@ -10627,15 +10510,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 260.35 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10743,7 +10617,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 152.4 393.6999 0)
 			(effects
 				(font
@@ -10761,7 +10635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 148.59 392.43 0)
 			(effects
 				(font
@@ -10772,15 +10646,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 148.59 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10822,7 +10687,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 180.34 393.6999 0)
 			(effects
 				(font
@@ -10840,7 +10705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 176.53 392.43 0)
 			(effects
 				(font
@@ -10851,15 +10716,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 176.53 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10901,7 +10757,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 347.98 393.6999 0)
 			(effects
 				(font
@@ -10919,7 +10775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 344.17 392.43 0)
 			(effects
 				(font
@@ -10930,15 +10786,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 344.17 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10980,7 +10827,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 236.22 393.6999 0)
 			(effects
 				(font
@@ -10998,7 +10845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 232.41 392.43 0)
 			(effects
 				(font
@@ -11009,15 +10856,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 232.41 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11059,7 +10897,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 334.01 393.6999 0)
 			(effects
 				(font
@@ -11077,7 +10915,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 330.2 392.43 0)
 			(effects
 				(font
@@ -11088,15 +10926,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 330.2 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11404,7 +11233,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 166.37 393.6999 0)
 			(effects
 				(font
@@ -11422,7 +11251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 162.56 392.43 0)
 			(effects
 				(font
@@ -11433,15 +11262,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 162.56 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11483,7 +11303,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 222.25 393.6999 0)
 			(effects
 				(font
@@ -11501,7 +11321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 218.44 392.43 0)
 			(effects
 				(font
@@ -11512,15 +11332,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 218.44 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11981,7 +11792,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF/25V"
+		(property "Value" "1uF"
 			(at 106.68 355.5999 0)
 			(effects
 				(font
@@ -11999,7 +11810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05A105KA5NQNC/C52923"
+		(property "Datasheet" "~"
 			(at 102.87 354.33 0)
 			(effects
 				(font
@@ -12010,15 +11821,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 102.87 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C52923"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12126,7 +11928,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 320.04 393.6999 0)
 			(effects
 				(font
@@ -12144,7 +11946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 316.23 392.43 0)
 			(effects
 				(font
@@ -12155,15 +11957,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 316.23 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12205,7 +11998,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 306.07 393.6999 0)
 			(effects
 				(font
@@ -12223,7 +12016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 302.26 392.43 0)
 			(effects
 				(font
@@ -12234,15 +12027,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 302.26 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12284,7 +12068,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 124.46 393.6999 0)
 			(effects
 				(font
@@ -12302,7 +12086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 120.65 392.43 0)
 			(effects
 				(font
@@ -12313,15 +12097,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 120.65 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12363,7 +12138,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF/25V"
+		(property "Value" "1uF"
 			(at 222.25 96.5199 0)
 			(effects
 				(font
@@ -12381,7 +12156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05A105KA5NQNC/C52923"
+		(property "Datasheet" "~"
 			(at 218.44 95.25 0)
 			(effects
 				(font
@@ -12392,15 +12167,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 218.44 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C52923"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12442,7 +12208,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 208.28 355.5999 0)
 			(effects
 				(font
@@ -12460,7 +12226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 204.47 354.33 0)
 			(effects
 				(font
@@ -12471,15 +12237,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 204.47 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13381,7 +13138,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 278.13 393.6999 0)
 			(effects
 				(font
@@ -13399,7 +13156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 274.32 392.43 0)
 			(effects
 				(font
@@ -13410,15 +13167,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 274.32 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13460,7 +13208,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF/25V"
+		(property "Value" "4.7uF"
 			(at 166.37 355.5999 0)
 			(effects
 				(font
@@ -13478,7 +13226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A475KAQNNNE/C1779"
+		(property "Datasheet" "~"
 			(at 162.56 354.33 0)
 			(effects
 				(font
@@ -13489,15 +13237,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 162.56 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1779"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13539,7 +13278,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF/25V"
+		(property "Value" "4.7uF"
 			(at 180.34 355.5999 0)
 			(effects
 				(font
@@ -13557,7 +13296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A475KAQNNNE/C1779"
+		(property "Datasheet" "~"
 			(at 176.53 354.33 0)
 			(effects
 				(font
@@ -13568,15 +13307,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 176.53 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1779"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13750,7 +13480,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 222.25 355.5999 0)
 			(effects
 				(font
@@ -13768,7 +13498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 218.44 354.33 0)
 			(effects
 				(font
@@ -13779,15 +13509,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 218.44 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13895,7 +13616,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 194.31 355.5999 0)
 			(effects
 				(font
@@ -13913,7 +13634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 190.5 354.33 0)
 			(effects
 				(font
@@ -13924,15 +13645,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 190.5 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14042,7 +13754,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100nF"
 			(at 250.19 393.6999 0)
 			(effects
 				(font
@@ -14060,7 +13772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+		(property "Datasheet" "~"
 			(at 246.38 392.43 0)
 			(effects
 				(font
@@ -14071,15 +13783,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 246.38 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C1525"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14121,7 +13824,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2.2uF/6.3V"
+		(property "Value" "2.2uF"
 			(at 241.3 312.4199 0)
 			(effects
 				(font
@@ -14139,7 +13842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05A225MQ5NSNC/C12530"
+		(property "Datasheet" "~"
 			(at 237.49 311.15 0)
 			(effects
 				(font
@@ -14150,15 +13853,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 237.49 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C12530"
-			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
