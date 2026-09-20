@@ -1,2 +1,0 @@
-# Xeltri PCB read-only analysis dependencies
-shapely>=2.0

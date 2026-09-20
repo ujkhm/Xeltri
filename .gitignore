@@ -11,10 +11,18 @@ Users*PortableDev*
 *PortableDev*git-credentials*
 *AppData*Local*Temp*PortableDev*
 
-# Editor
-.vscode/ipch/
-.vscode/.cmaketools/
+# Editor / Cursor (skills, rules, local settings)
+.vscode/
 .cursor/
+
+# Local-only: PCB analysis toolchain, SI/openEMS, reports
+# (this machine). Public repo is KiCad + firmware + README.
+scripts/
+analysis/
+tools/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
 
 # KiCad local / generated (also listed under KiCad/.gitignore)
 fp-info-cache
@@ -27,12 +35,3 @@ _autosave-*
 *.kicad_sch-bak
 *.csv
 kicad_temp_delay_table.txt
-
-# AI analysis outputs (regenerate via scripts/)
-analysis/*.json
-analysis/.cache/
-analysis/.active_pcb_path
-
-# Local heavy toolchain (openEMS binaries, ~250MB) — reinstall via
-# scripts/si_sim/install_openems_windows.ps1, do not commit
-tools/
