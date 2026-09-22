@@ -7246,40 +7246,46 @@
 		)
 	)
 	(junction
-		(at 182.88 350.52)
+		(at 125.73 351.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "02114c3c-a6c1-4369-871f-f4360b25a167")
 	)
 	(junction
-		(at 190.5 388.62)
+		(at 133.35 384.81)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "07fe9f00-b1dd-4671-8075-6a03e2542a2e")
+		(uuid "0380f9f7-0d4b-413b-acfa-4dcf74d3c521")
 	)
 	(junction
-		(at 120.65 396.24)
+		(at 97.79 351.79)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "087f2f2b-fa28-4849-b811-f0a9fc8691f0")
+		(uuid "078e07ee-b9f2-42b8-987e-ad6f1cfa320b")
 	)
 	(junction
-		(at 204.47 358.14)
+		(at 257.81 384.81)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0cb876d5-60c2-436b-933a-c2c2ec11c265")
+		(uuid "10ceac48-663f-425c-8e76-f00e57095b2d")
 	)
 	(junction
-		(at 106.68 396.24)
+		(at 346.71 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "138b0097-4a06-421e-8852-61a9d4d99c63")
+		(uuid "11cc9432-068b-428a-91b5-de6387ae7be6")
 	)
 	(junction
-		(at 176.53 396.24)
+		(at 240.03 384.81)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "189cd085-7af7-41b9-bcc1-cc952ff9c3fd")
+		(uuid "18d06c50-1ea6-4d0f-8d7f-68771ab60310")
+	)
+	(junction
+		(at 346.71 384.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18fb1b67-817e-4d30-91f1-2d1e9ede97c5")
 	)
 	(junction
 		(at 267.97 304.8)
@@ -7288,10 +7294,22 @@
 		(uuid "1a42910a-f335-4d15-bbf1-612fe5c3489c")
 	)
 	(junction
-		(at 190.5 358.14)
+		(at 151.13 384.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22731944-cef4-4dd3-8a33-e6ccd03d9f99")
+	)
+	(junction
+		(at 133.35 359.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "22918993-6d1e-467f-8a6d-7332fb60abf1")
+	)
+	(junction
+		(at 186.69 351.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "232c11d5-9929-4a2c-8f5a-9320b819f893")
 	)
 	(junction
 		(at 347.98 68.58)
@@ -7306,22 +7324,16 @@
 		(uuid "24d3634f-bd90-41e9-9dba-ae3309675c87")
 	)
 	(junction
-		(at 232.41 396.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "26cc29f3-4dab-45a1-a2d2-145d3b01b4ac")
-	)
-	(junction
-		(at 218.44 388.62)
+		(at 246.38 384.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "28494dcf-81ad-4995-908f-674dc92ca9c0")
 	)
 	(junction
-		(at 190.5 396.24)
+		(at 364.49 384.81)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2a5d0381-7bdb-4625-95c0-6317a2c4449c")
+		(uuid "2c365f7b-818b-4d44-8ab9-78bd7b09ebc0")
 	)
 	(junction
 		(at 342.9 68.58)
@@ -7330,13 +7342,19 @@
 		(uuid "303f38c2-6d47-4402-9161-09b9dbbecbc8")
 	)
 	(junction
-		(at 246.38 396.24)
+		(at 275.59 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "315f1ac4-80fb-4b00-9a2c-47ca7fd5b523")
+		(uuid "3477fb73-6601-40f0-8718-e9277c35d6f7")
 	)
 	(junction
-		(at 190.5 350.52)
+		(at 311.15 392.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "360d0276-8f0f-4bd1-9190-d1c8d58ff964")
+	)
+	(junction
+		(at 133.35 351.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "360ecd7c-2931-44b8-9a7d-b5f9ef4cedcd")
@@ -7348,7 +7366,7 @@
 		(uuid "36742997-6a1c-4736-8399-15b873b23f43")
 	)
 	(junction
-		(at 218.44 396.24)
+		(at 246.38 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3c976fa0-4066-4464-8ccd-e6e355608ee8")
@@ -7360,52 +7378,28 @@
 		(uuid "41a3a197-6e90-438c-b553-ead69a5799b4")
 	)
 	(junction
-		(at 260.35 388.62)
+		(at 364.49 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "47b3bc4e-23cf-4192-b419-5ec66035fe9d")
+		(uuid "4ee80811-bbe8-47bd-8ead-63048b74a3db")
 	)
 	(junction
-		(at 134.62 388.62)
+		(at 311.15 384.81)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "488f2731-d06b-4afd-903e-945472c8f6bd")
+		(uuid "512f65b0-d453-4d94-bf46-5ed576b02397")
 	)
 	(junction
-		(at 148.59 388.62)
+		(at 45.72 359.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4f3128ea-5707-4df1-80bf-0df347d3e048")
+		(uuid "56e2b7cd-a559-4a5d-84d8-7c8e45e82912")
 	)
 	(junction
-		(at 162.56 358.14)
+		(at 151.13 359.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5513dff6-d675-41b3-9273-867a84927c35")
-	)
-	(junction
-		(at 92.71 388.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5551d963-628f-4b69-8ff5-7ee5aeffabda")
-	)
-	(junction
-		(at 148.59 396.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "55639e8a-a9fa-48d3-819b-08fa315dd678")
-	)
-	(junction
-		(at 330.2 388.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5d85a8fd-c3ac-4cbb-b38e-10aa2614c101")
-	)
-	(junction
-		(at 176.53 388.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5d897db2-2c61-42b0-bbbd-73f9337ed6da")
+		(uuid "5d59601a-098e-46e3-a4a3-640b215c508f")
 	)
 	(junction
 		(at 327.66 353.06)
@@ -7414,10 +7408,10 @@
 		(uuid "60824801-831d-4751-8b8c-2495fb1a620a")
 	)
 	(junction
-		(at 232.41 388.62)
+		(at 133.35 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "66a14c49-b0c0-4dee-811d-4a1ddf8a03aa")
+		(uuid "637bb87f-b4d6-4ee7-9c38-cee82de15dd1")
 	)
 	(junction
 		(at 297.18 68.58)
@@ -7432,22 +7426,40 @@
 		(uuid "6d8935ae-33de-4934-83c2-8b3f4c6a7b29")
 	)
 	(junction
-		(at 92.71 396.24)
+		(at 45.72 351.79)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7422f535-fbae-44a2-809f-3b48ea579d7d")
+		(uuid "6f62f2e0-ca18-41ac-ae1c-198cd86fc807")
 	)
 	(junction
-		(at 246.38 388.62)
+		(at 115.57 359.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7550fb31-9c80-4795-a3ac-733834594c18")
+		(uuid "740dfcf0-c67d-4e8b-9095-bf52faa95720")
 	)
 	(junction
-		(at 274.32 396.24)
+		(at 222.25 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "75886365-0c1e-4ce9-9ee8-6ba65c7aa9a0")
+		(uuid "759a555b-62f7-47fd-8a25-f432c587b5d4")
+	)
+	(junction
+		(at 222.25 384.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "76701581-c49a-4152-a9f1-3e8cd3673414")
+	)
+	(junction
+		(at 168.91 351.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "785d8287-92b2-48d2-b74f-5260a619cc5d")
+	)
+	(junction
+		(at 115.57 351.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7a486324-8453-42ed-a5f9-2bed20b7cdb8")
 	)
 	(junction
 		(at 337.82 68.58)
@@ -7456,22 +7468,22 @@
 		(uuid "7ad0b0e6-a6bd-4468-9956-db84fa324fad")
 	)
 	(junction
-		(at 288.29 396.24)
+		(at 328.93 384.81)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7d962d04-9736-42c4-8074-3e9d40b11df2")
+		(uuid "7be884af-f81f-4a0d-9186-93f5fe701b88")
 	)
 	(junction
-		(at 176.53 358.14)
+		(at 62.23 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7fb39aa8-0610-4334-9402-65e7ecfc01e3")
+		(uuid "7ea92664-6eb4-4a19-8ac4-33fe09f0dbad")
 	)
 	(junction
-		(at 120.65 388.62)
+		(at 204.47 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8051f4de-99b2-485e-93c5-075e559bca55")
+		(uuid "803b63ee-048f-4270-b918-1897c97958b8")
 	)
 	(junction
 		(at 309.88 68.58)
@@ -7480,10 +7492,28 @@
 		(uuid "81243e9a-4767-4570-9b31-158ecf8721fa")
 	)
 	(junction
-		(at 162.56 396.24)
+		(at 186.69 359.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "867a5bf8-7894-4ee6-99da-6a24b22bad02")
+		(uuid "82d84048-53de-441a-ad22-2c86fe558152")
+	)
+	(junction
+		(at 186.69 384.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85624b8a-1600-435b-abfb-ea836a8f19e3")
+	)
+	(junction
+		(at 97.79 392.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87e9f0b8-8a46-4341-b9db-fc7a246ef06e")
+	)
+	(junction
+		(at 293.37 392.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b22605f-8983-4d71-8369-54da44ed183c")
 	)
 	(junction
 		(at 322.58 68.58)
@@ -7504,40 +7534,28 @@
 		(uuid "97cc1819-1057-4cd4-8a11-5530dcbd6a46")
 	)
 	(junction
-		(at 204.47 350.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "99358ec7-ac14-41ae-aceb-1e34a8e1cb39")
-	)
-	(junction
 		(at 317.5 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9a22e5cc-e3d3-4180-a107-fa741c02ef84")
 	)
 	(junction
-		(at 316.23 396.24)
+		(at 257.81 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9ef6b3f1-5fc7-4b0c-8624-586a3d6be03a")
-	)
-	(junction
-		(at 106.68 388.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a40bfa4a-b77c-415f-960a-150118a39177")
-	)
-	(junction
-		(at 162.56 350.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a57203d6-fb35-48cc-8ff1-18d9277930a4")
+		(uuid "9d4b4662-e3b5-44b0-a676-080e0339fe30")
 	)
 	(junction
 		(at 312.42 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a58af3bd-5d44-48ca-b4de-14ae2ea7ca69")
+	)
+	(junction
+		(at 204.47 384.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8f54ebd-b709-43df-9478-7ac0ccb9ff3e")
 	)
 	(junction
 		(at 345.44 68.58)
@@ -7552,28 +7570,10 @@
 		(uuid "ae2ea785-c521-4c97-8356-855847552c2f")
 	)
 	(junction
-		(at 109.22 358.14)
+		(at 168.91 384.81)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "afbb85b9-65de-42ee-af9f-8b0f8803956f")
-	)
-	(junction
-		(at 288.29 388.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "aff53d9a-f7c3-45b0-a62c-1594ac92f04b")
-	)
-	(junction
-		(at 204.47 396.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b0f498d8-fbb1-4d22-bb00-30372a64bfd8")
-	)
-	(junction
-		(at 134.62 396.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b17d027c-0e17-4b9f-b5d4-3aa1af4d0fb8")
+		(uuid "aef3a556-8659-4a43-8973-4cdfbe9611e8")
 	)
 	(junction
 		(at 330.2 68.58)
@@ -7594,6 +7594,18 @@
 		(uuid "b399a98c-0252-4da9-bb93-4ad89b0479f0")
 	)
 	(junction
+		(at 62.23 384.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b40d6919-7b6a-4e9e-b37c-942f3e2b84e1")
+	)
+	(junction
+		(at 80.01 384.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b634d768-7253-4de1-8d50-f343e54223e8")
+	)
+	(junction
 		(at 358.14 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7606,10 +7618,16 @@
 		(uuid "bc855bea-7a1a-42d8-a9a4-b91b218e8f1e")
 	)
 	(junction
-		(at 330.2 396.24)
+		(at 240.03 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "bda21e40-b592-4875-a4ca-5af766defe02")
+		(uuid "bce0f817-5dfd-4bc3-89dd-df3a4c028849")
+	)
+	(junction
+		(at 115.57 384.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c09d4ed9-5335-4f6b-99d9-fe9ee8b56ffc")
 	)
 	(junction
 		(at 304.8 68.58)
@@ -7618,10 +7636,16 @@
 		(uuid "c3a77b6b-940f-499b-8404-3d70cc1c7281")
 	)
 	(junction
-		(at 162.56 388.62)
+		(at 275.59 384.81)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d0dd2482-c5c7-4c93-b92b-8d42cb863507")
+		(uuid "c72140e1-e4da-4fc0-9c8c-c929ff244436")
+	)
+	(junction
+		(at 80.01 392.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c79a2eab-3188-4460-8944-a9c0f2a11c3a")
 	)
 	(junction
 		(at 314.96 68.58)
@@ -7630,46 +7654,52 @@
 		(uuid "d1d6c12b-7152-49fc-a0d5-d3730292e9f2")
 	)
 	(junction
-		(at 260.35 396.24)
+		(at 186.69 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d80fc191-9149-41e1-92fa-6c39dcb09423")
+		(uuid "d69a7135-c0a8-4ade-a460-7f0f865358cf")
 	)
 	(junction
-		(at 302.26 396.24)
+		(at 328.93 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "da220402-68d8-495e-856f-98787da2499d")
+		(uuid "da7d0a2e-bc64-4934-9b3c-7088c41c4a39")
 	)
 	(junction
-		(at 176.53 350.52)
+		(at 97.79 359.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ddece258-ea9e-433d-b5d4-1d30a495e1c6")
+		(uuid "dc921cf4-373d-4c57-908b-5a1c246a3d41")
 	)
 	(junction
-		(at 182.88 358.14)
+		(at 125.73 359.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dfac7afd-b4dd-49d3-a30a-06f3892a27ac")
 	)
 	(junction
-		(at 274.32 388.62)
+		(at 168.91 359.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e6f4c7b1-4488-4e6c-bff6-49105e003264")
+		(uuid "e0dfdd8f-cdaa-4973-8d7f-e7c78c2f89d8")
 	)
 	(junction
-		(at 109.22 350.52)
+		(at 97.79 384.81)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e7689a41-4df6-4e66-bdc8-71eb78f03cf4")
+		(uuid "e1bc83ea-91b3-4930-9cbb-bf7e32814ac6")
 	)
 	(junction
-		(at 302.26 388.62)
+		(at 151.13 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f256247a-840b-4c0e-849a-d460297801b3")
+		(uuid "eb02ce4b-0a82-4d01-942e-4fb479cae6f0")
+	)
+	(junction
+		(at 293.37 384.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ef6b5c70-6c14-491d-9b14-d64163391184")
 	)
 	(junction
 		(at 335.28 68.58)
@@ -7684,10 +7714,10 @@
 		(uuid "f46cf3f7-50e2-4c1f-9633-b41e739da6be")
 	)
 	(junction
-		(at 316.23 388.62)
+		(at 151.13 351.79)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f7cb2734-1ee7-4d5a-bd10-b599c640ffc3")
+		(uuid "fac6da9b-bda2-4a05-a8ad-c4afb039563a")
 	)
 	(junction
 		(at 327.66 68.58)
@@ -7696,24 +7726,20 @@
 		(uuid "fb5fbf9a-12d5-43fa-887d-0db1ebb7a757")
 	)
 	(junction
-		(at 204.47 388.62)
+		(at 168.91 392.43)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "fb86dd2d-7578-406f-b54c-a9569bb35abb")
+		(uuid "fe369f40-807f-49a2-9bfd-9fc062b0662f")
+	)
+	(junction
+		(at 115.57 392.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff614d0a-3518-416b-9e89-9522f496ffad")
 	)
 	(no_connect
 		(at 274.32 88.9)
 		(uuid "c2d6c525-eca7-441f-9e93-61fa0bbae7a6")
-	)
-	(wire
-		(pts
-			(xy 120.65 396.24) (xy 134.62 396.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0144cf87-f5ba-4fbc-a31e-f88de58a9b5c")
 	)
 	(wire
 		(pts
@@ -7737,17 +7763,17 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 396.24) (xy 330.2 396.24)
+			(xy 45.72 351.79) (xy 54.61 351.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "12b4e61e-1f20-4336-a392-847de11baf04")
+		(uuid "0b85ae3d-e1fe-46ff-8565-cc561fa92eb6")
 	)
 	(wire
 		(pts
-			(xy 392.43 391.16) (xy 379.73 391.16)
+			(xy 443.23 387.35) (xy 430.53 387.35)
 		)
 		(stroke
 			(width 0)
@@ -7764,6 +7790,26 @@
 			(type default)
 		)
 		(uuid "14be5aee-fb83-46ae-ae83-5bf8ec78c94e")
+	)
+	(wire
+		(pts
+			(xy 151.13 392.43) (xy 168.91 392.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "175c4c6e-7d14-4c15-a7b8-3546bb54c72d")
+	)
+	(wire
+		(pts
+			(xy 328.93 392.43) (xy 346.71 392.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17cc6c2f-ca8d-4953-a47e-4a758b9907f4")
 	)
 	(wire
 		(pts
@@ -7787,7 +7833,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 388.62) (xy 92.71 388.62)
+			(xy 44.45 384.81) (xy 62.23 384.81)
 		)
 		(stroke
 			(width 0)
@@ -7797,23 +7843,33 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 388.62) (xy 120.65 388.62)
+			(xy 364.49 384.81) (xy 382.27 384.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "26fd8695-b643-4677-9a34-16c3a6006b23")
+		(uuid "2a85bf32-9519-4d45-9c9f-68b798760df4")
 	)
 	(wire
 		(pts
-			(xy 102.87 358.14) (xy 109.22 358.14)
+			(xy 36.83 359.41) (xy 45.72 359.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2aa156c9-3f35-41c8-8137-196c791b8b98")
+	)
+	(wire
+		(pts
+			(xy 45.72 359.41) (xy 54.61 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e48ded7-9b3b-4657-8f79-a387c1a6caa7")
 	)
 	(wire
 		(pts
@@ -7837,6 +7893,16 @@
 	)
 	(wire
 		(pts
+			(xy 328.93 384.81) (xy 346.71 384.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3222cc73-0214-4c5f-96fd-21573dc83179")
+	)
+	(wire
+		(pts
 			(xy 320.04 68.58) (xy 322.58 68.58)
 		)
 		(stroke
@@ -7844,6 +7910,16 @@
 			(type default)
 		)
 		(uuid "322ab661-d990-4e69-8495-f44f7ff69690")
+	)
+	(wire
+		(pts
+			(xy 311.15 384.81) (xy 328.93 384.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3239b935-fe40-47a2-85b8-84164b116894")
 	)
 	(wire
 		(pts
@@ -7867,43 +7943,23 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 396.24) (xy 190.5 396.24)
+			(xy 311.15 392.43) (xy 328.93 392.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3984ab05-6fba-44a1-b4e8-342c6a996b1b")
+		(uuid "3c1f00b0-8711-4ef1-8042-d1efd9e397fb")
 	)
 	(wire
 		(pts
-			(xy 109.22 350.52) (xy 115.57 350.52)
+			(xy 186.69 384.81) (xy 204.47 384.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3bbcab02-ac0d-4805-bea7-fa8d4217a620")
-	)
-	(wire
-		(pts
-			(xy 274.32 388.62) (xy 288.29 388.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cd7f650-efda-43af-a8b9-07c5ecd47a05")
-	)
-	(wire
-		(pts
-			(xy 92.71 396.24) (xy 106.68 396.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e27011c-8eda-4fe6-ad00-0324dcf6f50d")
+		(uuid "41040c7e-d503-418e-8765-5e325416890a")
 	)
 	(wire
 		(pts
@@ -7917,16 +7973,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 358.14) (xy 182.88 358.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41f41a95-14db-4b83-9b5a-337c6899ec49")
-	)
-	(wire
-		(pts
 			(xy 342.9 68.58) (xy 345.44 68.58)
 		)
 		(stroke
@@ -7937,17 +7983,27 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 396.24) (xy 176.53 396.24)
+			(xy 80.01 384.81) (xy 97.79 384.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "452ae4c8-75d9-4e79-9a84-ec6cd832f760")
+		(uuid "4787775c-1cce-48db-8d1f-2454ea65aaeb")
 	)
 	(wire
 		(pts
-			(xy 237.49 314.96) (xy 243.84 314.96)
+			(xy 275.59 392.43) (xy 293.37 392.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47f26000-6b49-4d08-860c-ab0eef2ea2cf")
+	)
+	(wire
+		(pts
+			(xy 229.87 314.96) (xy 243.84 314.96)
 		)
 		(stroke
 			(width 0)
@@ -7957,7 +8013,47 @@
 	)
 	(wire
 		(pts
-			(xy 392.43 388.62) (xy 392.43 391.16)
+			(xy 151.13 359.41) (xy 168.91 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cc067dd-8cfc-4dc1-abd8-059fa4e2fd25")
+	)
+	(wire
+		(pts
+			(xy 168.91 392.43) (xy 186.69 392.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e8dd56a-f037-4673-a3c9-87f7bc79f85b")
+	)
+	(wire
+		(pts
+			(xy 257.81 392.43) (xy 275.59 392.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ee277a9-0c12-4014-925e-229fea607de0")
+	)
+	(wire
+		(pts
+			(xy 62.23 392.43) (xy 80.01 392.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fa7af35-fd8c-4a9f-9ace-26023d56b3b8")
+	)
+	(wire
+		(pts
+			(xy 443.23 384.81) (xy 443.23 387.35)
 		)
 		(stroke
 			(width 0)
@@ -7977,16 +8073,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 388.62) (xy 148.59 388.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4fdcf667-dcef-48a2-91f3-5f3baf8b318e")
-	)
-	(wire
-		(pts
 			(xy 332.74 68.58) (xy 335.28 68.58)
 		)
 		(stroke
@@ -7994,16 +8080,6 @@
 			(type default)
 		)
 		(uuid "51abc62e-9794-4b12-b32f-aee8a0ccf839")
-	)
-	(wire
-		(pts
-			(xy 134.62 396.24) (xy 148.59 396.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52617a6a-f8f2-4eb4-b8e3-15886b0488bc")
 	)
 	(wire
 		(pts
@@ -8017,7 +8093,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 302.26) (xy 267.97 302.26)
+			(xy 229.87 302.26) (xy 267.97 302.26)
 		)
 		(stroke
 			(width 0)
@@ -8027,17 +8103,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 396.24) (xy 344.17 396.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55091188-fc55-477a-b731-0f58aa87c239")
-	)
-	(wire
-		(pts
-			(xy 182.88 358.14) (xy 190.5 358.14)
+			(xy 125.73 359.41) (xy 133.35 359.41)
 		)
 		(stroke
 			(width 0)
@@ -8047,33 +8113,23 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 388.62) (xy 162.56 388.62)
+			(xy 204.47 384.81) (xy 222.25 384.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5e0ac195-afaf-49cc-845e-20b437286876")
+		(uuid "5c931ce6-e5dd-400b-88ab-8a4dfa0c1934")
 	)
 	(wire
 		(pts
-			(xy 274.32 396.24) (xy 288.29 396.24)
+			(xy 257.81 384.81) (xy 275.59 384.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6065e2d8-1038-44e6-a14a-7d23fc1c1079")
-	)
-	(wire
-		(pts
-			(xy 260.35 388.62) (xy 274.32 388.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6070ed05-71cf-4f08-b0c0-e56469fafbbb")
+		(uuid "5ca9bac9-22d9-44b1-a276-c112875f176e")
 	)
 	(wire
 		(pts
@@ -8107,23 +8163,23 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 388.62) (xy 190.5 388.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "681f5c14-744e-4a90-82b6-ef4917b5cd17")
-	)
-	(wire
-		(pts
-			(xy 218.44 91.44) (xy 231.14 91.44)
+			(xy 214.63 91.44) (xy 231.14 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "696b1c48-40d2-4c7b-9c94-311c53529407")
+	)
+	(wire
+		(pts
+			(xy 168.91 359.41) (xy 186.69 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "699f730d-bd21-455c-b695-7e7edbc7ac61")
 	)
 	(wire
 		(pts
@@ -8147,6 +8203,26 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 384.81) (xy 168.91 384.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d88b5da-acd1-4b78-8aba-b758ba7d7f43")
+	)
+	(wire
+		(pts
+			(xy 168.91 384.81) (xy 186.69 384.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "701c1165-27f4-48c8-bd03-b64d757316fd")
+	)
+	(wire
+		(pts
 			(xy 355.6 68.58) (xy 358.14 68.58)
 		)
 		(stroke
@@ -8157,17 +8233,17 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 388.62) (xy 106.68 388.62)
+			(xy 346.71 392.43) (xy 364.49 392.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "753847ce-fb95-48e2-b5bf-58e48fe9941a")
+		(uuid "726172f4-66af-4613-a444-2fde83f2605e")
 	)
 	(wire
 		(pts
-			(xy 360.68 391.16) (xy 372.11 391.16)
+			(xy 411.48 387.35) (xy 422.91 387.35)
 		)
 		(stroke
 			(width 0)
@@ -8177,7 +8253,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 396.24) (xy 92.71 396.24)
+			(xy 44.45 392.43) (xy 62.23 392.43)
 		)
 		(stroke
 			(width 0)
@@ -8197,7 +8273,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 358.14) (xy 204.47 358.14)
+			(xy 133.35 359.41) (xy 151.13 359.41)
 		)
 		(stroke
 			(width 0)
@@ -8217,23 +8293,23 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 350.52) (xy 182.88 350.52)
+			(xy 240.03 384.81) (xy 246.38 384.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "80130f0e-395a-4d12-a7b6-4e876e632c75")
+		(uuid "7e43469d-2933-438c-a25a-094e056afb54")
 	)
 	(wire
 		(pts
-			(xy 232.41 396.24) (xy 246.38 396.24)
+			(xy 275.59 384.81) (xy 293.37 384.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "83a8465b-4650-4ecd-9650-638377f3947b")
+		(uuid "7f9f1a6c-506b-43ee-af72-f75f610dcc85")
 	)
 	(wire
 		(pts
@@ -8247,6 +8323,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 392.43) (xy 97.79 392.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "868cbc96-353c-4012-8e5d-406af37f82d1")
+	)
+	(wire
+		(pts
 			(xy 325.12 353.06) (xy 327.66 353.06)
 		)
 		(stroke
@@ -8257,37 +8343,37 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 350.52) (xy 176.53 350.52)
+			(xy 364.49 392.43) (xy 382.27 392.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8d06066e-8196-4fba-9cde-a04c82885437")
+		(uuid "881bf02f-da55-4955-bbbb-50ff00ef5166")
 	)
 	(wire
 		(pts
-			(xy 330.2 388.62) (xy 344.17 388.62)
+			(xy 97.79 351.79) (xy 115.57 351.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8ec7ab8b-6810-443a-a055-3a4d1b5cd9b0")
+		(uuid "8841e112-1dc6-42e5-b3e8-7d29ad5c1a0c")
 	)
 	(wire
 		(pts
-			(xy 148.59 396.24) (xy 162.56 396.24)
+			(xy 240.03 392.43) (xy 246.38 392.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8ed6a6db-c80e-4042-9d85-ff992399daa6")
+		(uuid "88e1aaf4-994b-4897-a3bf-ce1e6a97c91d")
 	)
 	(wire
 		(pts
-			(xy 148.59 358.14) (xy 162.56 358.14)
+			(xy 80.01 359.41) (xy 97.79 359.41)
 		)
 		(stroke
 			(width 0)
@@ -8297,23 +8383,13 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 388.62) (xy 260.35 388.62)
+			(xy 151.13 351.79) (xy 168.91 351.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "90846f4f-a323-4d57-9332-53f32b2b84ff")
-	)
-	(wire
-		(pts
-			(xy 109.22 358.14) (xy 115.57 358.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "916e6dfb-c7c5-4b0b-afef-e954a43e2ed1")
+		(uuid "92a31d47-af76-43a9-a029-5f1c0ced61f3")
 	)
 	(wire
 		(pts
@@ -8327,7 +8403,17 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 388.62) (xy 232.41 388.62)
+			(xy 133.35 392.43) (xy 151.13 392.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "979743bb-0e1c-445e-beda-b6de009d60f7")
+	)
+	(wire
+		(pts
+			(xy 246.38 384.81) (xy 257.81 384.81)
 		)
 		(stroke
 			(width 0)
@@ -8337,33 +8423,13 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 396.24) (xy 232.41 396.24)
+			(xy 246.38 392.43) (xy 257.81 392.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9b503a13-4781-4258-a8df-7199778cf79d")
-	)
-	(wire
-		(pts
-			(xy 246.38 396.24) (xy 260.35 396.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c2c251a-e2fe-4d2d-a5d4-574c979d35d4")
-	)
-	(wire
-		(pts
-			(xy 204.47 388.62) (xy 218.44 388.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e46a237-ae04-40ce-a8be-f63a60117f5a")
 	)
 	(wire
 		(pts
@@ -8377,33 +8443,63 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 396.24) (xy 218.44 396.24)
+			(xy 222.25 384.81) (xy 240.03 384.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9f56e045-2308-4b12-8ba3-d4cb3cf7acfb")
+		(uuid "9fdefd22-e3a1-49a1-bc9a-a6978d36799a")
 	)
 	(wire
 		(pts
-			(xy 260.35 396.24) (xy 274.32 396.24)
+			(xy 115.57 384.81) (xy 133.35 384.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a157f0f5-639a-4337-8ea8-59e6fcae40e4")
+		(uuid "a1e88fcd-3349-4e03-9088-dce11378795b")
 	)
 	(wire
 		(pts
-			(xy 302.26 396.24) (xy 316.23 396.24)
+			(xy 186.69 351.79) (xy 204.47 351.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a2cfd5cd-75b0-41bb-a2ae-ad48dbaca53c")
+		(uuid "a278c177-de49-487e-aa69-3081164a75e4")
+	)
+	(wire
+		(pts
+			(xy 115.57 359.41) (xy 125.73 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a28e4b3a-123d-4c12-95b1-a1ad3c23930a")
+	)
+	(wire
+		(pts
+			(xy 293.37 392.43) (xy 311.15 392.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6c44417-1e81-4b31-a8d0-81a8f40a28ba")
+	)
+	(wire
+		(pts
+			(xy 115.57 351.79) (xy 125.73 351.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa48eab9-0def-4e9d-9cd8-99dacb432154")
 	)
 	(wire
 		(pts
@@ -8417,13 +8513,33 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 396.24) (xy 204.47 396.24)
+			(xy 133.35 384.81) (xy 151.13 384.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ac658530-0b1e-482f-9a4f-ff87a156a324")
+		(uuid "b02e279d-d1a7-4fb9-99fa-fdf3eb7e5c39")
+	)
+	(wire
+		(pts
+			(xy 97.79 359.41) (xy 115.57 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b04ed06d-9990-42fb-a3aa-16ca15077684")
+	)
+	(wire
+		(pts
+			(xy 97.79 392.43) (xy 115.57 392.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0e624af-54ab-4321-b726-a677d5dcdb27")
 	)
 	(wire
 		(pts
@@ -8437,7 +8553,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 350.52) (xy 204.47 350.52)
+			(xy 133.35 351.79) (xy 151.13 351.79)
 		)
 		(stroke
 			(width 0)
@@ -8447,7 +8563,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 350.52) (xy 109.22 350.52)
+			(xy 36.83 351.79) (xy 45.72 351.79)
 		)
 		(stroke
 			(width 0)
@@ -8457,17 +8573,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 358.14) (xy 218.44 358.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bbb559b2-ce91-4d4e-bb7b-a921a08614c9")
-	)
-	(wire
-		(pts
-			(xy 360.68 388.62) (xy 360.68 391.16)
+			(xy 411.48 384.81) (xy 411.48 387.35)
 		)
 		(stroke
 			(width 0)
@@ -8497,7 +8603,17 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 350.52) (xy 190.5 350.52)
+			(xy 168.91 351.79) (xy 186.69 351.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1c4c827-462a-4b2c-a160-fed1bfad6de6")
+	)
+	(wire
+		(pts
+			(xy 125.73 351.79) (xy 133.35 351.79)
 		)
 		(stroke
 			(width 0)
@@ -8507,53 +8623,23 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 358.14) (xy 176.53 358.14)
+			(xy 204.47 392.43) (xy 222.25 392.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c6145122-04a1-4542-aebb-4e1ef9af08ec")
+		(uuid "cd2e5baf-5d5f-4f58-9bd1-b6de5ddd1d82")
 	)
 	(wire
 		(pts
-			(xy 316.23 388.62) (xy 330.2 388.62)
+			(xy 346.71 384.81) (xy 364.49 384.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c6721d6e-c1e8-4b77-9363-ab933f18e8bd")
-	)
-	(wire
-		(pts
-			(xy 204.47 350.52) (xy 218.44 350.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6e0e0bc-0514-4512-bb5e-f068d3c4d02a")
-	)
-	(wire
-		(pts
-			(xy 120.65 388.62) (xy 134.62 388.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc9f00ac-cf01-4c5b-8483-45f4ec99b893")
-	)
-	(wire
-		(pts
-			(xy 190.5 388.62) (xy 204.47 388.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd349162-6aa2-4b72-844f-94a24393c0d4")
+		(uuid "cdf5fa7b-7949-4973-8f2f-5cb12d300d30")
 	)
 	(wire
 		(pts
@@ -8567,27 +8653,7 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 388.62) (xy 302.26 388.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d08eaf75-526c-4888-a7c6-61a8606e7735")
-	)
-	(wire
-		(pts
-			(xy 232.41 388.62) (xy 246.38 388.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d12aec92-1c2b-428e-8f99-dde975ba9157")
-	)
-	(wire
-		(pts
-			(xy 148.59 350.52) (xy 162.56 350.52)
+			(xy 80.01 351.79) (xy 97.79 351.79)
 		)
 		(stroke
 			(width 0)
@@ -8604,6 +8670,16 @@
 			(type default)
 		)
 		(uuid "d687fde3-56f7-4d25-ae78-1bf87c42b886")
+	)
+	(wire
+		(pts
+			(xy 293.37 384.81) (xy 311.15 384.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6f22d53-30d5-4c53-98f6-d853c9ae3162")
 	)
 	(wire
 		(pts
@@ -8627,6 +8703,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 392.43) (xy 204.47 392.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0937cbd-4782-45e8-928c-7f705dff280d")
+	)
+	(wire
+		(pts
 			(xy 243.84 314.96) (xy 250.19 314.96)
 		)
 		(stroke
@@ -8637,17 +8723,27 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 388.62) (xy 176.53 388.62)
+			(xy 222.25 392.43) (xy 240.03 392.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e87e64ea-44c6-4d91-a001-c830041fa893")
+		(uuid "e51dcde5-733f-4a5d-9aed-ba4350c01736")
 	)
 	(wire
 		(pts
-			(xy 237.49 307.34) (xy 237.49 302.26)
+			(xy 62.23 384.81) (xy 80.01 384.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7a8d47f-32ab-44fa-9841-da478affbc80")
+	)
+	(wire
+		(pts
+			(xy 229.87 307.34) (xy 229.87 302.26)
 		)
 		(stroke
 			(width 0)
@@ -8667,16 +8763,6 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 396.24) (xy 302.26 396.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee021446-1559-4c12-814f-9588386a75ff")
-	)
-	(wire
-		(pts
 			(xy 347.98 68.58) (xy 350.52 68.58)
 		)
 		(stroke
@@ -8687,13 +8773,13 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 396.24) (xy 120.65 396.24)
+			(xy 115.57 392.43) (xy 133.35 392.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f470d098-8598-4318-864c-06c32890c1ce")
+		(uuid "f3d4368a-5bc7-43a2-a6d1-2f245cd36b05")
 	)
 	(wire
 		(pts
@@ -8727,13 +8813,13 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 388.62) (xy 316.23 388.62)
+			(xy 97.79 384.81) (xy 115.57 384.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f79800a1-d55e-4f63-9869-43a0077925b7")
+		(uuid "f7b15614-c0a2-47c9-9231-d70baeb0292b")
 	)
 	(wire
 		(pts
@@ -8747,6 +8833,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 359.41) (xy 204.47 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f81dcef5-f0bf-4658-9ea2-caeb418c1316")
+	)
+	(wire
+		(pts
 			(xy 251.46 83.82) (xy 274.32 83.82)
 		)
 		(stroke
@@ -8757,7 +8853,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 92.71 392.43 0)
+		(at 62.23 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8766,7 +8862,7 @@
 		(fields_autoplaced yes)
 		(uuid "056e933d-7021-4fdf-ac95-17a0c1a7f1bf")
 		(property "Reference" "C55"
-			(at 96.52 391.1599 0)
+			(at 66.04 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8775,7 +8871,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 96.52 393.6999 0)
+			(at 66.04 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8784,7 +8880,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 93.6752 396.24 0)
+			(at 63.1952 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8793,7 +8889,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 92.71 392.43 0)
+			(at 62.23 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8802,7 +8898,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 92.71 392.43 0)
+			(at 62.23 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8811,7 +8907,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -30.48 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8836,7 +8932,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 148.59 354.33 0)
+		(at 80.01 355.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8845,7 +8941,7 @@
 		(fields_autoplaced yes)
 		(uuid "07b8fff6-90cb-4fce-a789-c0e4219ff3f1")
 		(property "Reference" "C76"
-			(at 152.4 353.0599 0)
+			(at 83.82 354.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8854,7 +8950,7 @@
 			)
 		)
 		(property "Value" "4.7uF/25V"
-			(at 152.4 355.5999 0)
+			(at 83.82 356.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8863,7 +8959,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 149.5552 358.14 0)
+			(at 80.9752 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8872,7 +8968,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A475KAQNNNE/C1779"
-			(at 148.59 354.33 0)
+			(at 80.01 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8881,7 +8977,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 148.59 354.33 0)
+			(at 80.01 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8890,7 +8986,7 @@
 			)
 		)
 		(property "LCSC Part" "C1779"
-			(at 0 0 0)
+			(at -68.58 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8915,7 +9011,7 @@
 	)
 	(symbol
 		(lib_id "power:VDDA")
-		(at 109.22 350.52 0)
+		(at 45.72 351.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8924,7 +9020,7 @@
 		(fields_autoplaced yes)
 		(uuid "088a16d7-1b27-4459-917a-273231076a07")
 		(property "Reference" "#PWR01"
-			(at 109.22 354.33 0)
+			(at 45.72 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8933,7 +9029,7 @@
 			)
 		)
 		(property "Value" "VDDA"
-			(at 109.22 345.44 0)
+			(at 45.72 346.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8941,7 +9037,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 350.52 0)
+			(at 45.72 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8950,7 +9046,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 350.52 0)
+			(at 45.72 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8959,7 +9055,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDDA\""
-			(at 109.22 350.52 0)
+			(at 45.72 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9327,7 +9423,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 115.57 354.33 0)
+		(at 54.61 355.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9336,7 +9432,7 @@
 		(fields_autoplaced yes)
 		(uuid "225ae1ba-32c1-4bca-9c8f-58fa9fd9a5e3")
 		(property "Reference" "C53"
-			(at 119.38 353.0599 0)
+			(at 58.42 354.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9345,7 +9441,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 119.38 355.5999 0)
+			(at 58.42 356.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9354,7 +9450,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 116.5352 358.14 0)
+			(at 55.5752 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9363,7 +9459,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 115.57 354.33 0)
+			(at 54.61 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9372,7 +9468,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 115.57 354.33 0)
+			(at 54.61 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9381,7 +9477,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -60.96 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9406,7 +9502,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 134.62 392.43 0)
+		(at 115.57 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9415,7 +9511,7 @@
 		(fields_autoplaced yes)
 		(uuid "225c9f66-c6ee-41af-a1e8-21b55f545055")
 		(property "Reference" "C58"
-			(at 138.43 391.1599 0)
+			(at 119.38 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9424,7 +9520,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 138.43 393.6999 0)
+			(at 119.38 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9433,7 +9529,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 135.5852 396.24 0)
+			(at 116.5352 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9442,7 +9538,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 134.62 392.43 0)
+			(at 115.57 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9451,7 +9547,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 134.62 392.43 0)
+			(at 115.57 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9460,7 +9556,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -19.05 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9553,7 +9649,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 106.68 392.43 0)
+		(at 80.01 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9562,7 +9658,7 @@
 		(fields_autoplaced yes)
 		(uuid "3437b003-a54d-4af0-ae73-e8dc3012535d")
 		(property "Reference" "C56"
-			(at 110.49 391.1599 0)
+			(at 83.82 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9571,7 +9667,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 110.49 393.6999 0)
+			(at 83.82 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9580,7 +9676,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 107.6452 396.24 0)
+			(at 80.9752 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9589,7 +9685,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 106.68 392.43 0)
+			(at 80.01 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9598,7 +9694,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 106.68 392.43 0)
+			(at 80.01 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9607,7 +9703,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -26.67 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9632,7 +9728,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 190.5 392.43 0)
+		(at 186.69 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9641,7 +9737,7 @@
 		(fields_autoplaced yes)
 		(uuid "379cc647-cba8-4368-b719-e09641d6ee2a")
 		(property "Reference" "C62"
-			(at 194.31 391.1599 0)
+			(at 190.5 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9650,7 +9746,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 194.31 393.6999 0)
+			(at 190.5 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9659,7 +9755,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 191.4652 396.24 0)
+			(at 187.6552 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9668,7 +9764,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 190.5 392.43 0)
+			(at 186.69 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9677,7 +9773,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 190.5 392.43 0)
+			(at 186.69 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9686,7 +9782,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -3.81 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9923,7 +10019,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 218.44 388.62 0)
+		(at 246.38 384.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9932,7 +10028,7 @@
 		(fields_autoplaced yes)
 		(uuid "504bf263-6dfe-44b9-adef-6ba0c13b7ca7")
 		(property "Reference" "#PWR0102"
-			(at 218.44 392.43 0)
+			(at 246.38 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9941,7 +10037,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 218.44 383.54 0)
+			(at 246.38 379.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9949,7 +10045,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 388.62 0)
+			(at 246.38 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9958,7 +10054,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 388.62 0)
+			(at 246.38 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9967,7 +10063,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 218.44 388.62 0)
+			(at 246.38 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10055,7 +10151,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 288.29 392.43 0)
+		(at 311.15 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10064,7 +10160,7 @@
 		(fields_autoplaced yes)
 		(uuid "57cdb2a2-f0ee-48d7-948e-fcac9d85f765")
 		(property "Reference" "C69"
-			(at 292.1 391.1599 0)
+			(at 314.96 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10073,7 +10169,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 292.1 393.6999 0)
+			(at 314.96 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10082,7 +10178,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 289.2552 396.24 0)
+			(at 312.1152 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10091,7 +10187,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 288.29 392.43 0)
+			(at 311.15 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10100,7 +10196,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 288.29 392.43 0)
+			(at 311.15 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10109,7 +10205,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at 22.86 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10134,7 +10230,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 78.74 392.43 0)
+		(at 44.45 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10143,7 +10239,7 @@
 		(fields_autoplaced yes)
 		(uuid "58d13d41-c2dc-4020-a407-001b93549f36")
 		(property "Reference" "C52"
-			(at 82.55 391.1599 0)
+			(at 48.26 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10152,7 +10248,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 82.55 393.6999 0)
+			(at 48.26 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10161,7 +10257,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 79.7052 396.24 0)
+			(at 45.4152 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10170,7 +10266,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 78.74 392.43 0)
+			(at 44.45 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10179,7 +10275,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 78.74 392.43 0)
+			(at 44.45 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10188,7 +10284,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -34.29 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10356,7 +10452,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 204.47 392.43 0)
+		(at 204.47 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10365,7 +10461,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c091280-6f3a-44eb-ad2e-c0ee27c83039")
 		(property "Reference" "C63"
-			(at 208.28 391.1599 0)
+			(at 208.28 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10374,7 +10470,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 208.28 393.6999 0)
+			(at 208.28 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10383,7 +10479,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 205.4352 396.24 0)
+			(at 205.4352 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10392,7 +10488,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 204.47 392.43 0)
+			(at 204.47 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10401,7 +10497,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 204.47 392.43 0)
+			(at 204.47 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10410,7 +10506,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at 0 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10581,7 +10677,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 260.35 392.43 0)
+		(at 275.59 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10590,7 +10686,7 @@
 		(fields_autoplaced yes)
 		(uuid "87695eec-e1a2-454c-8841-47161fc5ba70")
 		(property "Reference" "C67"
-			(at 264.16 391.1599 0)
+			(at 279.4 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10599,7 +10695,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 264.16 393.6999 0)
+			(at 279.4 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10608,7 +10704,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 261.3152 396.24 0)
+			(at 276.5552 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10617,7 +10713,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 260.35 392.43 0)
+			(at 275.59 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10626,7 +10722,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 260.35 392.43 0)
+			(at 275.59 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10635,7 +10731,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at 15.24 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10660,7 +10756,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 358.14 0)
+		(at 45.72 359.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10669,7 +10765,7 @@
 		(fields_autoplaced yes)
 		(uuid "87f9d82c-c6b8-4f60-822d-6f7ead178a1b")
 		(property "Reference" "#PWR0108"
-			(at 109.22 364.49 0)
+			(at 45.72 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10678,7 +10774,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 109.22 363.22 0)
+			(at 45.72 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10686,7 +10782,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 358.14 0)
+			(at 45.72 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10695,7 +10791,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 358.14 0)
+			(at 45.72 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10704,7 +10800,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 358.14 0)
+			(at 45.72 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10726,7 +10822,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 148.59 392.43 0)
+		(at 133.35 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10735,7 +10831,7 @@
 		(fields_autoplaced yes)
 		(uuid "8f998cc8-22bd-4906-9a9b-cb511ef43635")
 		(property "Reference" "C59"
-			(at 152.4 391.1599 0)
+			(at 137.16 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10744,7 +10840,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 152.4 393.6999 0)
+			(at 137.16 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10753,7 +10849,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 149.5552 396.24 0)
+			(at 134.3152 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10762,7 +10858,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 148.59 392.43 0)
+			(at 133.35 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10771,7 +10867,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 148.59 392.43 0)
+			(at 133.35 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10780,7 +10876,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -15.24 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10805,7 +10901,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 176.53 392.43 0)
+		(at 168.91 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10814,7 +10910,7 @@
 		(fields_autoplaced yes)
 		(uuid "92e2aa70-e5a2-4694-96b3-91d7178c5b2b")
 		(property "Reference" "C61"
-			(at 180.34 391.1599 0)
+			(at 172.72 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10823,7 +10919,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 180.34 393.6999 0)
+			(at 172.72 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10832,7 +10928,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 177.4952 396.24 0)
+			(at 169.8752 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10841,7 +10937,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 176.53 392.43 0)
+			(at 168.91 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10850,7 +10946,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 176.53 392.43 0)
+			(at 168.91 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10859,7 +10955,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -7.62 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10884,7 +10980,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 344.17 392.43 0)
+		(at 382.27 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10893,7 +10989,7 @@
 		(fields_autoplaced yes)
 		(uuid "9a955f92-dc05-4e1a-9086-cefec75ebc93")
 		(property "Reference" "C73"
-			(at 347.98 391.1599 0)
+			(at 386.08 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10902,7 +10998,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 347.98 393.6999 0)
+			(at 386.08 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10911,7 +11007,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 345.1352 396.24 0)
+			(at 383.2352 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10920,7 +11016,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 344.17 392.43 0)
+			(at 382.27 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10929,7 +11025,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 344.17 392.43 0)
+			(at 382.27 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10938,7 +11034,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at 38.1 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10963,7 +11059,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 232.41 392.43 0)
+		(at 240.03 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10972,7 +11068,7 @@
 		(fields_autoplaced yes)
 		(uuid "9b26a486-eb52-4101-af12-89334c48d1e7")
 		(property "Reference" "C65"
-			(at 236.22 391.1599 0)
+			(at 243.84 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10981,7 +11077,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 236.22 393.6999 0)
+			(at 243.84 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10990,7 +11086,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 233.3752 396.24 0)
+			(at 240.9952 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10999,7 +11095,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 232.41 392.43 0)
+			(at 240.03 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11008,7 +11104,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 232.41 392.43 0)
+			(at 240.03 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11017,7 +11113,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at 7.62 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11042,7 +11138,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 330.2 392.43 0)
+		(at 364.49 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11051,7 +11147,7 @@
 		(fields_autoplaced yes)
 		(uuid "9fc94aa7-27d4-48d8-8a3a-dcaa33095ee3")
 		(property "Reference" "C72"
-			(at 334.01 391.1599 0)
+			(at 368.3 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11060,7 +11156,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 334.01 393.6999 0)
+			(at 368.3 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11069,7 +11165,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 331.1652 396.24 0)
+			(at 365.4552 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11078,7 +11174,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 330.2 392.43 0)
+			(at 364.49 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11087,7 +11183,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 330.2 392.43 0)
+			(at 364.49 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11096,7 +11192,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at 34.29 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11321,7 +11417,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 182.88 350.52 0)
+		(at 125.73 351.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11330,7 +11426,7 @@
 		(fields_autoplaced yes)
 		(uuid "ada1ae08-6dda-4075-b1ad-d3ce55cbd80e")
 		(property "Reference" "#PWR0103"
-			(at 182.88 354.33 0)
+			(at 125.73 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11339,7 +11435,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 182.88 345.44 0)
+			(at 125.73 346.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11347,7 +11443,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 350.52 0)
+			(at 125.73 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11356,7 +11452,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 350.52 0)
+			(at 125.73 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11365,7 +11461,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 182.88 350.52 0)
+			(at 125.73 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11387,7 +11483,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 162.56 392.43 0)
+		(at 151.13 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11396,7 +11492,7 @@
 		(fields_autoplaced yes)
 		(uuid "adcba676-e27b-44ea-9e05-2c546919810e")
 		(property "Reference" "C60"
-			(at 166.37 391.1599 0)
+			(at 154.94 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11405,7 +11501,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 166.37 393.6999 0)
+			(at 154.94 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11414,7 +11510,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 163.5252 396.24 0)
+			(at 152.0952 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11423,7 +11519,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 162.56 392.43 0)
+			(at 151.13 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11432,7 +11528,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 162.56 392.43 0)
+			(at 151.13 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11441,7 +11537,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -11.43 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11466,7 +11562,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 218.44 392.43 0)
+		(at 222.25 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11475,7 +11571,7 @@
 		(fields_autoplaced yes)
 		(uuid "aeb0177f-abfb-41fe-8b69-fc6a09f506c0")
 		(property "Reference" "C64"
-			(at 222.25 391.1599 0)
+			(at 226.06 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11484,7 +11580,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 222.25 393.6999 0)
+			(at 226.06 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11493,7 +11589,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 219.4052 396.24 0)
+			(at 223.2152 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11502,7 +11598,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 218.44 392.43 0)
+			(at 222.25 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11511,7 +11607,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 218.44 392.43 0)
+			(at 222.25 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11520,7 +11616,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at 3.81 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11624,6 +11720,85 @@
 			(project ""
 				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/947b9af7-0b08-456b-ad03-a4dd3c7b9c00"
 					(reference "B1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 204.47 355.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b202a39d-c4e2-4428-bb0d-a805804006fb")
+		(property "Reference" "C86"
+			(at 208.28 354.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF/25V"
+			(at 208.28 356.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 205.4352 359.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05A105KA5NQNC/C52923"
+			(at 204.47 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 204.47 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C52923"
+			(at -13.97 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00c66d53-ade0-4930-a17d-8a877e594aeb")
+		)
+		(pin "2"
+			(uuid "8ff1b29e-375e-434d-b615-a6d2e61feb3b")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/947b9af7-0b08-456b-ad03-a4dd3c7b9c00"
+					(reference "C86")
 					(unit 1)
 				)
 			)
@@ -11763,8 +11938,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 186.69 355.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b5f203ba-ae14-4a06-9336-8fdd86741bba")
+		(property "Reference" "C85"
+			(at 190.5 354.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF/16V"
+			(at 190.5 356.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 187.6552 359.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
+			(at 186.69 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 186.69 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C1525"
+			(at -31.75 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "da6f95d3-4555-489d-b3b1-feb4b1d6de7f")
+		)
+		(pin "2"
+			(uuid "db53b355-ce45-44bc-a536-57c257acb423")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/947b9af7-0b08-456b-ad03-a4dd3c7b9c00"
+					(reference "C85")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 182.88 358.14 0)
+		(at 125.73 359.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11773,7 +12027,7 @@
 		(fields_autoplaced yes)
 		(uuid "c3456e8e-36f7-4171-8262-39169b9673e2")
 		(property "Reference" "#PWR0115"
-			(at 182.88 364.49 0)
+			(at 125.73 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11782,7 +12036,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 182.88 363.22 0)
+			(at 125.73 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11790,7 +12044,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 358.14 0)
+			(at 125.73 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11799,7 +12053,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 358.14 0)
+			(at 125.73 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11808,7 +12062,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 182.88 358.14 0)
+			(at 125.73 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11830,7 +12084,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 218.44 99.06 0)
+		(at 214.63 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11839,7 +12093,7 @@
 		(fields_autoplaced yes)
 		(uuid "c77369ae-9860-42a2-ba57-d93ee5c13337")
 		(property "Reference" "#PWR0109"
-			(at 218.44 105.41 0)
+			(at 214.63 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11848,7 +12102,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 218.44 104.14 0)
+			(at 214.63 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11856,7 +12110,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 99.06 0)
+			(at 214.63 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11865,7 +12119,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 99.06 0)
+			(at 214.63 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11874,7 +12128,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 218.44 99.06 0)
+			(at 214.63 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11896,7 +12150,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 375.92 391.16 90)
+		(at 426.72 387.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11905,7 +12159,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9f6d3a3-3426-47c2-b409-329de357cea1")
 		(property "Reference" "FB2"
-			(at 375.8692 383.54 90)
+			(at 426.6692 379.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11913,7 +12167,7 @@
 			)
 		)
 		(property "Value" "600R@100M"
-			(at 375.8692 386.08 90)
+			(at 426.6692 382.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11921,7 +12175,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
-			(at 375.92 392.938 90)
+			(at 426.72 389.128 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11930,7 +12184,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 375.92 391.16 0)
+			(at 426.72 387.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11939,7 +12193,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 375.92 391.16 0)
+			(at 426.72 387.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11964,7 +12218,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 102.87 354.33 0)
+		(at 36.83 355.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11973,7 +12227,7 @@
 		(fields_autoplaced yes)
 		(uuid "ced742db-2501-4525-86c1-c50e07e6eef8")
 		(property "Reference" "C54"
-			(at 106.68 353.0599 0)
+			(at 40.64 354.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11982,7 +12236,7 @@
 			)
 		)
 		(property "Value" "1uF/25V"
-			(at 106.68 355.5999 0)
+			(at 40.64 356.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11991,7 +12245,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 103.8352 358.14 0)
+			(at 37.7952 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12000,7 +12254,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05A105KA5NQNC/C52923"
-			(at 102.87 354.33 0)
+			(at 36.83 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12009,7 +12263,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 102.87 354.33 0)
+			(at 36.83 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12018,7 +12272,7 @@
 			)
 		)
 		(property "LCSC Part" "C52923"
-			(at 0 0 0)
+			(at -66.04 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12043,7 +12297,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 392.43 388.62 0)
+		(at 443.23 384.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12052,7 +12306,7 @@
 		(fields_autoplaced yes)
 		(uuid "d093bb96-b63f-4aeb-b897-85efee9f6bc5")
 		(property "Reference" "#PWR0110"
-			(at 392.43 392.43 0)
+			(at 443.23 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12061,7 +12315,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 392.43 383.54 0)
+			(at 443.23 379.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12069,7 +12323,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 392.43 388.62 0)
+			(at 443.23 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12078,7 +12332,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 392.43 388.62 0)
+			(at 443.23 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12087,7 +12341,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 392.43 388.62 0)
+			(at 443.23 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12109,7 +12363,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 316.23 392.43 0)
+		(at 346.71 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12118,7 +12372,7 @@
 		(fields_autoplaced yes)
 		(uuid "d1658e88-3304-4b43-b721-c1c14de33fe7")
 		(property "Reference" "C71"
-			(at 320.04 391.1599 0)
+			(at 350.52 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12127,7 +12381,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 320.04 393.6999 0)
+			(at 350.52 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12136,7 +12390,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 317.1952 396.24 0)
+			(at 347.6752 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12145,7 +12399,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 316.23 392.43 0)
+			(at 346.71 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12154,7 +12408,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 316.23 392.43 0)
+			(at 346.71 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12163,7 +12417,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at 30.48 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12188,7 +12442,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 302.26 392.43 0)
+		(at 328.93 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12197,7 +12451,7 @@
 		(fields_autoplaced yes)
 		(uuid "d736570b-cf5f-4c6a-b6e0-a61aaad04d63")
 		(property "Reference" "C70"
-			(at 306.07 391.1599 0)
+			(at 332.74 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12206,7 +12460,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 306.07 393.6999 0)
+			(at 332.74 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12215,7 +12469,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 303.2252 396.24 0)
+			(at 329.8952 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12224,7 +12478,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 302.26 392.43 0)
+			(at 328.93 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12233,7 +12487,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 302.26 392.43 0)
+			(at 328.93 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12242,7 +12496,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at 26.67 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12267,7 +12521,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 120.65 392.43 0)
+		(at 97.79 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12276,7 +12530,7 @@
 		(fields_autoplaced yes)
 		(uuid "d825fda0-ec89-4187-a14c-010cebcdaaa3")
 		(property "Reference" "C57"
-			(at 124.46 391.1599 0)
+			(at 101.6 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12285,7 +12539,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 124.46 393.6999 0)
+			(at 101.6 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12294,7 +12548,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 121.6152 396.24 0)
+			(at 98.7552 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12303,7 +12557,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 120.65 392.43 0)
+			(at 97.79 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12312,7 +12566,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 120.65 392.43 0)
+			(at 97.79 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12321,7 +12575,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -22.86 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12346,7 +12600,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 218.44 95.25 0)
+		(at 214.63 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12355,7 +12609,7 @@
 		(fields_autoplaced yes)
 		(uuid "dcf5c2b8-6729-45e7-8e72-fe6e9002bb56")
 		(property "Reference" "C74"
-			(at 222.25 93.9799 0)
+			(at 218.44 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12364,7 +12618,7 @@
 			)
 		)
 		(property "Value" "1uF/25V"
-			(at 222.25 96.5199 0)
+			(at 218.44 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12373,7 +12627,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 219.4052 99.06 0)
+			(at 215.5952 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12382,7 +12636,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05A105KA5NQNC/C52923"
-			(at 218.44 95.25 0)
+			(at 214.63 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12391,7 +12645,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 218.44 95.25 0)
+			(at 214.63 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12400,7 +12654,7 @@
 			)
 		)
 		(property "LCSC Part" "C52923"
-			(at 0 0 0)
+			(at -3.81 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12425,7 +12679,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 204.47 354.33 0)
+		(at 151.13 355.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12434,7 +12688,7 @@
 		(fields_autoplaced yes)
 		(uuid "e4b4903b-82ed-49fc-b310-61862b13ee4b")
 		(property "Reference" "C80"
-			(at 208.28 353.0599 0)
+			(at 154.94 354.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12443,7 +12697,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 208.28 355.5999 0)
+			(at 154.94 356.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12452,7 +12706,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 205.4352 358.14 0)
+			(at 152.0952 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12461,7 +12715,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 204.47 354.33 0)
+			(at 151.13 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12470,7 +12724,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 204.47 354.33 0)
+			(at 151.13 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12479,7 +12733,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -53.34 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13364,7 +13618,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 274.32 392.43 0)
+		(at 293.37 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13373,7 +13627,7 @@
 		(fields_autoplaced yes)
 		(uuid "e75c1b0a-107c-4b03-abab-ea8c41dc69b0")
 		(property "Reference" "C68"
-			(at 278.13 391.1599 0)
+			(at 297.18 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13382,7 +13636,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 278.13 393.6999 0)
+			(at 297.18 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13391,7 +13645,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 275.2852 396.24 0)
+			(at 294.3352 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13400,7 +13654,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 274.32 392.43 0)
+			(at 293.37 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13409,7 +13663,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 274.32 392.43 0)
+			(at 293.37 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13418,7 +13672,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at 19.05 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13443,7 +13697,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 162.56 354.33 0)
+		(at 97.79 355.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13452,7 +13706,7 @@
 		(fields_autoplaced yes)
 		(uuid "ec371183-7e7e-40b5-b03b-a7be1870f980")
 		(property "Reference" "C77"
-			(at 166.37 353.0599 0)
+			(at 101.6 354.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13461,7 +13715,7 @@
 			)
 		)
 		(property "Value" "4.7uF/25V"
-			(at 166.37 355.5999 0)
+			(at 101.6 356.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13470,7 +13724,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 163.5252 358.14 0)
+			(at 98.7552 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13479,7 +13733,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A475KAQNNNE/C1779"
-			(at 162.56 354.33 0)
+			(at 97.79 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13488,7 +13742,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 162.56 354.33 0)
+			(at 97.79 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13497,7 +13751,7 @@
 			)
 		)
 		(property "LCSC Part" "C1779"
-			(at 0 0 0)
+			(at -64.77 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13522,7 +13776,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 176.53 354.33 0)
+		(at 115.57 355.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13531,7 +13785,7 @@
 		(fields_autoplaced yes)
 		(uuid "ec644baa-8cfe-4a49-8c00-346f615f80a9")
 		(property "Reference" "C78"
-			(at 180.34 353.0599 0)
+			(at 119.38 354.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13540,7 +13794,7 @@
 			)
 		)
 		(property "Value" "4.7uF/25V"
-			(at 180.34 355.5999 0)
+			(at 119.38 356.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13549,7 +13803,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 177.4952 358.14 0)
+			(at 116.5352 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13558,7 +13812,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL21A475KAQNNNE/C1779"
-			(at 176.53 354.33 0)
+			(at 115.57 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13567,7 +13821,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 176.53 354.33 0)
+			(at 115.57 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13576,7 +13830,7 @@
 			)
 		)
 		(property "LCSC Part" "C1779"
-			(at 0 0 0)
+			(at -60.96 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13601,7 +13855,7 @@
 	)
 	(symbol
 		(lib_id "power:VDDA")
-		(at 360.68 388.62 0)
+		(at 411.48 384.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13610,7 +13864,7 @@
 		(fields_autoplaced yes)
 		(uuid "ed1f00e3-f2c8-41ba-a45e-efd4b0d01219")
 		(property "Reference" "#PWR0107"
-			(at 360.68 392.43 0)
+			(at 411.48 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13619,7 +13873,7 @@
 			)
 		)
 		(property "Value" "VDDA"
-			(at 360.68 383.54 0)
+			(at 411.48 379.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13627,7 +13881,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 360.68 388.62 0)
+			(at 411.48 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13636,7 +13890,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 360.68 388.62 0)
+			(at 411.48 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13645,7 +13899,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDDA\""
-			(at 360.68 388.62 0)
+			(at 411.48 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13667,7 +13921,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 218.44 396.24 0)
+		(at 246.38 392.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13676,7 +13930,7 @@
 		(fields_autoplaced yes)
 		(uuid "ed52d7e4-9381-454a-89eb-7c0a9c1d13a6")
 		(property "Reference" "#PWR082"
-			(at 218.44 402.59 0)
+			(at 246.38 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13685,7 +13939,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 218.44 401.32 0)
+			(at 246.38 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13693,7 +13947,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 396.24 0)
+			(at 246.38 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13702,7 +13956,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 396.24 0)
+			(at 246.38 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13711,7 +13965,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 218.44 396.24 0)
+			(at 246.38 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13733,7 +13987,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 218.44 354.33 0)
+		(at 168.91 355.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13742,7 +13996,7 @@
 		(fields_autoplaced yes)
 		(uuid "efe43dac-90ef-4707-8c0d-1590b1b81672")
 		(property "Reference" "C81"
-			(at 222.25 353.0599 0)
+			(at 172.72 354.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13751,7 +14005,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 222.25 355.5999 0)
+			(at 172.72 356.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13760,7 +14014,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 219.4052 358.14 0)
+			(at 169.8752 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13769,7 +14023,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 218.44 354.33 0)
+			(at 168.91 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13778,7 +14032,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 218.44 354.33 0)
+			(at 168.91 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13787,7 +14041,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -49.53 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13878,7 +14132,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 190.5 354.33 0)
+		(at 133.35 355.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13887,7 +14141,7 @@
 		(fields_autoplaced yes)
 		(uuid "f1a5205a-7eaa-4e4c-8b49-59dc5513fcc5")
 		(property "Reference" "C79"
-			(at 194.31 353.0599 0)
+			(at 137.16 354.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13896,7 +14150,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 194.31 355.5999 0)
+			(at 137.16 356.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13905,7 +14159,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 191.4652 358.14 0)
+			(at 134.3152 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13914,7 +14168,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 190.5 354.33 0)
+			(at 133.35 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13923,7 +14177,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 190.5 354.33 0)
+			(at 133.35 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13932,7 +14186,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at -57.15 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14025,7 +14279,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 246.38 392.43 0)
+		(at 257.81 388.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14034,7 +14288,7 @@
 		(fields_autoplaced yes)
 		(uuid "f8494f69-48a6-47bd-90bc-348b1b1f5131")
 		(property "Reference" "C66"
-			(at 250.19 391.1599 0)
+			(at 261.62 387.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14043,7 +14297,7 @@
 			)
 		)
 		(property "Value" "100nF/16V"
-			(at 250.19 393.6999 0)
+			(at 261.62 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14052,7 +14306,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 247.3452 396.24 0)
+			(at 258.7752 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14061,7 +14315,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05B104KO5NNNC/C1525"
-			(at 246.38 392.43 0)
+			(at 257.81 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14070,7 +14324,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 246.38 392.43 0)
+			(at 257.81 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14079,7 +14333,7 @@
 			)
 		)
 		(property "LCSC Part" "C1525"
-			(at 0 0 0)
+			(at 11.43 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14104,7 +14358,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 237.49 311.15 180)
+		(at 229.87 311.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14113,7 +14367,7 @@
 		(fields_autoplaced yes)
 		(uuid "fd2f995f-84b8-4913-84f7-ff2b43be0222")
 		(property "Reference" "C50"
-			(at 241.3 309.8799 0)
+			(at 233.68 309.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14122,7 +14376,7 @@
 			)
 		)
 		(property "Value" "2.2uF/6.3V"
-			(at 241.3 312.4199 0)
+			(at 233.68 312.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14131,7 +14385,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 236.5248 307.34 0)
+			(at 228.9048 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14140,7 +14394,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Samsung-CL05A225MQ5NSNC/C12530"
-			(at 237.49 311.15 0)
+			(at 229.87 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14149,7 +14403,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 237.49 311.15 0)
+			(at 229.87 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14158,7 +14412,7 @@
 			)
 		)
 		(property "LCSC Part" "C12530"
-			(at 0 0 0)
+			(at -7.62 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
