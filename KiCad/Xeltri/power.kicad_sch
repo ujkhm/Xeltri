@@ -4735,7 +4735,7 @@
 		(uuid "9c1576d2-43ec-4090-b4b9-43ed4fc3f119")
 	)
 	(junction
-		(at 289.56 180.34)
+		(at 295.91 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5d33e73-4133-4a78-9bf6-d0726ff87948")
@@ -4787,12 +4787,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be75f292-8f44-4994-aae5-f767204b4bbc")
-	)
-	(junction
-		(at 289.56 182.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c58b524f-8133-4b06-9208-31221463259b")
 	)
 	(junction
 		(at 237.49 67.31)
@@ -4926,7 +4920,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 180.34) (xy 334.01 180.34)
+			(xy 295.91 180.34) (xy 334.01 180.34)
 		)
 		(stroke
 			(width 0)
@@ -5063,6 +5057,16 @@
 			(type default)
 		)
 		(uuid "0fc57601-c27b-480d-91e8-caacfbd6bf27")
+	)
+	(wire
+		(pts
+			(xy 289.56 261.62) (xy 289.56 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "104b249a-12a8-4c62-9803-7fa26f12c481")
 	)
 	(wire
 		(pts
@@ -5236,6 +5240,16 @@
 	)
 	(wire
 		(pts
+			(xy 334.01 264.16) (xy 289.56 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1dae2fd8-e441-483f-bc9b-ab96fed98d3b")
+	)
+	(wire
+		(pts
 			(xy 72.39 279.4) (xy 96.52 279.4)
 		)
 		(stroke
@@ -5343,16 +5357,6 @@
 			(type default)
 		)
 		(uuid "271ab22b-9bfc-486d-bfc5-119a5d489975")
-	)
-	(wire
-		(pts
-			(xy 289.56 187.96) (xy 289.56 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27ac493b-f3f5-43c2-b25e-4578b8ec6200")
 	)
 	(wire
 		(pts
@@ -5613,6 +5617,16 @@
 			(type default)
 		)
 		(uuid "47331dd4-6524-4466-8a98-74825fb4a723")
+	)
+	(wire
+		(pts
+			(xy 289.56 298.45) (xy 289.56 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b2f1434-6c34-4863-a62e-9162d9188955")
 	)
 	(wire
 		(pts
@@ -6076,6 +6090,16 @@
 	)
 	(wire
 		(pts
+			(xy 334.01 300.99) (xy 289.56 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d590a3b-da0a-4380-85d3-ed6d47ed13a9")
+	)
+	(wire
+		(pts
 			(xy 59.69 279.4) (xy 72.39 279.4)
 		)
 		(stroke
@@ -6506,7 +6530,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 180.34) (xy 289.56 182.88)
+			(xy 295.91 180.34) (xy 295.91 182.88)
 		)
 		(stroke
 			(width 0)
@@ -6726,7 +6750,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 182.88) (xy 334.01 182.88)
+			(xy 295.91 182.88) (xy 334.01 182.88)
 		)
 		(stroke
 			(width 0)
@@ -7409,6 +7433,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 359.41 177.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0587d8bb-2a51-4207-837a-71568fb11c55")
+		(property "Reference" "#PWR0132"
+			(at 365.76 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 363.22 177.7999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 359.41 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 359.41 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0be61684-acb3-4e98-88a6-42ec4adb92a9")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR0132")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 74.93 194.31 0)
 		(unit 1)
@@ -8021,6 +8112,73 @@
 			(project "Xeltri"
 				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
 					(reference "#PWR046")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 359.41 300.99 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1285f563-3d8b-4f02-b3ec-3dd33ac1eb3c")
+		(property "Reference" "#PWR0126"
+			(at 365.76 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 363.22 300.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 359.41 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 359.41 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e2e6ab2f-2945-4ce5-bd70-db85aa2afd84")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR0126")
 					(unit 1)
 				)
 			)
@@ -9235,6 +9393,139 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 289.56 261.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2a127bbb-3eb8-446d-82cf-e18090cbd017")
+		(property "Reference" "#PWR0121"
+			(at 289.56 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 289.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 289.56 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 289.56 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 289.56 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7298b60b-a8d6-402c-ac54-263995cc4c40")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR0121")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 359.41 290.83 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2b4f146d-3d37-4fd0-9f99-512f8baba63b")
+		(property "Reference" "#PWR0135"
+			(at 365.76 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 363.22 290.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 359.41 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 359.41 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cc4ebf03-844a-4857-bf79-61136219c0f8")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR0135")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "TPS22966DPUR:TPS22966DPUR")
 		(at 334.01 256.54 0)
 		(unit 1)
@@ -10029,6 +10320,140 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 359.41 254 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a01542c-34e0-4225-a78f-b852ac5554dc")
+		(property "Reference" "#PWR0134"
+			(at 365.76 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 363.22 253.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 359.41 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 359.41 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bd165dfe-1814-4b0b-b94c-f073a1c57294")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR0134")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 359.41 187.96 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a4adbb5-f4a9-4597-871f-8baedd89f285")
+		(property "Reference" "#PWR0123"
+			(at 365.76 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 363.22 187.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 359.41 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 359.41 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "078c74ce-ffbf-465e-8dc1-6efc86764f90")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR0123")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 78.74 119.38 0)
 		(unit 1)
@@ -10168,6 +10593,72 @@
 			(project "Xeltri"
 				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
 					(reference "#PWR097")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 289.56 298.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3f16730a-2755-4d3b-941d-b7c2c57d5eae")
+		(property "Reference" "#PWR0122"
+			(at 289.56 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 289.56 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 289.56 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 289.56 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 289.56 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "410bf86e-e2a8-4476-9a57-84b0d659eed2")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -10504,6 +10995,73 @@
 			(project "Xeltri"
 				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
 					(reference "R50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 359.41 217.17 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4607426b-dfe8-4128-8dd7-8bebac25a4a0")
+		(property "Reference" "#PWR0133"
+			(at 365.76 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 363.22 217.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 359.41 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 359.41 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ebb052ee-71ad-40e3-9380-2c441b75fb11")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR0133")
 					(unit 1)
 				)
 			)
@@ -11106,6 +11664,73 @@
 			(project "Xeltri"
 				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
 					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 359.41 227.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d42469a-d4f3-4451-a7ed-ce7726fc587c")
+		(property "Reference" "#PWR0124"
+			(at 365.76 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 363.22 227.3299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 359.41 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 359.41 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b46eac3c-810f-4e6b-adba-00e47a205d74")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -12674,6 +13299,72 @@
 			(project "Xeltri"
 				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
 					(reference "#PWR076")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 289.56 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "65ad006f-4ba6-42bf-8c32-c3b654b785ac")
+		(property "Reference" "#PWR0120"
+			(at 289.56 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 289.56 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 289.56 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 289.56 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 289.56 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8050f99a-18cd-4fb0-852e-3bde1992a660")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -15926,6 +16617,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 289.56 224.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9afb6162-baea-4d75-b741-04472d2c7a84")
+		(property "Reference" "#PWR093"
+			(at 289.56 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 289.56 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 289.56 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 289.56 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 289.56 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e945476e-7407-4289-bb9f-d41c4affb78a")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR093")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 74.93 160.02 0)
 		(unit 1)
@@ -18176,72 +18933,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 289.56 224.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c355c742-a681-4a4f-a229-a48a1c692390")
-		(property "Reference" "#PWR093"
-			(at 289.56 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 289.56 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 289.56 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 289.56 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 289.56 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2f8c0967-0a5c-4ed7-a688-480d4bd0bd07")
-		)
-		(instances
-			(project "Xeltri"
-				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
-					(reference "#PWR093")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 97.79 259.08 0)
 		(unit 1)
@@ -18592,6 +19283,73 @@
 			(project "Xeltri"
 				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
 					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 359.41 264.16 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "caeb87d6-f2d4-4697-93aa-d029bc27b0c7")
+		(property "Reference" "#PWR0125"
+			(at 365.76 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 363.22 264.1599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 359.41 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 359.41 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8ab7e8a8-8e65-4ba8-9243-0b2047f1bd57")
+		)
+		(instances
+			(project "Xeltri"
+				(path "/b9ed8ff9-3a91-4311-b656-324fcf6f7e0c/2a901d39-6beb-43c6-8602-9359e9e7f825"
+					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
@@ -19653,7 +20411,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 289.56 180.34 0)
+		(at 295.91 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19662,7 +20420,7 @@
 		(fields_autoplaced yes)
 		(uuid "d804a72d-d442-484e-814c-aab44795bdc3")
 		(property "Reference" "#PWR0116"
-			(at 289.56 184.15 0)
+			(at 295.91 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19671,7 +20429,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 289.56 175.26 0)
+			(at 295.91 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19679,7 +20437,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 289.56 180.34 0)
+			(at 295.91 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19688,7 +20446,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 289.56 180.34 0)
+			(at 295.91 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19697,7 +20455,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 289.56 180.34 0)
+			(at 295.91 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
